@@ -11,7 +11,6 @@ Soy estudiante de la Facultad de Ingeniería (FING) y actualmente estoy realizan
    - Alternativamente, se puede usar CPU, aunque el rendimiento será significativamente más lento.
 
 2. **Software Necesario**
-   - **Sistema operativo:** Windows.
    - **Python:** Versión 3.9 o superior.
    - **Java:** Instalar JDK (versión 8.0.152 y superior) y configurar la variable de entorno `JAVA_HOME`.
    - **Anaconda:** Para manejar los entornos virtuales.
