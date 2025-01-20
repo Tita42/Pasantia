@@ -1,0 +1,1363 @@
+@prefix ns1: <http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#> .
+@prefix ns2: <http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Cumple_con_/> .
+@prefix ns3: <http://www.semanticweb.org/emilio/ontologies/2024/7/untitled-ontology-52#> .
+@prefix owl2vec: <http://www.semanticweb.org/owl2vec#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns3:Bibliografia3 ns1:Autor "Adorjan"^^xsd:string,
+        "Motz"^^xsd:string,
+        "Vargas-Solar"^^xsd:string ;
+    ns1:Titulo "Towards a human-in-the-loop curation: A qualitative perspective"^^xsd:string .
+
+ns1:Bibliografia1 a ns1:Bibliografia ;
+    ns1:Autor "Beccaria"^^xsd:string,
+        "Castro Sanchez"^^xsd:string,
+        "Silvetti"^^xsd:string ;
+    ns1:Titulo "El vínculo pedagógico en la educación superior de la pospandemia. La sincronía como intensificador de presencia en carreras a distancia."^^xsd:string .
+
+ns1:InvestigacionEstrategiaEstudio a ns1:proyecto_de_investigacion ;
+    ns1:Define ns1:EstrategiaMetodologica1 ;
+    ns1:Es_participante ns1:Investigador1,
+        ns1:Investigador2,
+        ns1:Investigador3,
+        ns1:Investigador4 ;
+    ns1:Tiene_objetivo ns1:objetivo1,
+        ns1:objetivo2,
+        ns1:objetivo3 .
+
+ns1:Manual_descriptivo_Camila a ns1:metadatos .
+
+ns1:analisis_documental rdfs:subClassOf ns1:tecnica .
+
+ns1:dato32 a ns1:registro ;
+    ns1:Metadato ns1:E12,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:varón ;
+    ns1:Valor "A mí lo que me define como joven es ser parte de una generación que utiliza los mismos códigos para comunicarse y encontrarse en constante actualización de estos códigos en este contexto de adaptación inmediata y de “no quedarse atrás”"^^xsd:string .
+
+ns1:dato33 a ns1:registro ;
+    ns1:Metadato ns1:E19,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:varón ;
+    ns1:Valor "A mí lo que me define como joven es ser parte de una generación que utiliza los mismos códigos para comunicarse y encontrarse en constante actualización de estos códigos en este contexto de adaptación inmediata y de “no quedarse atrás”"^^xsd:string .
+
+ns1:dato34 a ns1:registro ;
+    ns1:Metadato ns1:E30,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Valor "la libertad de poder elegir lo que quiero, cómo quiero vivir, pero también el miedo a poder lograrlo"^^xsd:string .
+
+ns1:dato35 a ns1:registro ;
+    ns1:Metadato ns1:E32,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Valor "Sentirme aún en una etapa de crecimiento y descubrimiento (aunque constantemente siempre lo estemos) donde poco a poco voy formando quién soy pero el rasgo más característico de ser joven para mi es la incertidumbre y duda que tengo de dicho proceso"^^xsd:string .
+
+ns1:dato36 a ns1:registro ;
+    ns1:Metadato ns1:E37,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:varón ;
+    ns1:Valor "Definirse como joven se hace casi imposible, definir la juventud es casi imposible, por el mero hecho de la ambigüedad, incertidumbre y extrañez que genera estar en esta etapa de mi vida. Lo que abarca este período es mucho más grande de lo que podemos imaginar, por eso no busco definirlo, sino disfrutar, aprender y seguir creciendo en aquellos aspectos de la vida que considero pertinentes. Sumar nuevas experiencias, animarse a diferentes actividades y enfrentar aquellos miedos que en algún momento supusieron un bloqueo o barrera en el propio desarrollo de la vida"^^xsd:string .
+
+ns1:dato37 a ns1:registro ;
+    ns1:Metadato ns1:E17,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Valor """A mi lo que me define como joven es el movimiento y el cambio constante. En cuanto al movimiento me refiero al hecho de poder participar de la vida cultural y también de tener la disponibilidad de crear proyectos sociales por fuera de la facultad y lograr ciertos objetivos. A su vez se refiere a tener la libertad de elección para optar en donde quiero estar e ir conociéndome a través de las experiencias. 
+Sobre el cambio constante, considero que en mi vida personal y familiar existen muchos cambios que siento que es algo que me identifica como joven así también como la flexibilidad y adaptabilidad que a través de los mismos y de manera un poco forzada voy adquiriendo . 
+Por otro lado, ser joven significa tener cierto rol social . Participar de alguna manera en los movimientos y luchas sociales . Ya sea concientizando o siendo parte de algún movimiento que siento que hoy en día , puede llegar a ser una carga impuesta socialmente pero que aún así genera impactos positivos."""^^xsd:string .
+
+ns1:dato38 a ns1:registro ;
+    ns1:Metadato ns1:E18,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Valor "Lo que me define como joven va por dos caminos, por un lado, la energía y optimismo de que podemos cambiar en el presente para un futuro mejor, querer involucrarme en causas sociales y sentir que estoy siendo parte, apoyando algo bueno."^^xsd:string .
+
+ns1:documento rdfs:subClassOf ns1:sujeto_u_objeto .
+
+ns1:ecd11.1 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "NO"^^xsd:string ;
+    ns1:categoria_superior ns1:ecd11 .
+
+ns1:ecd4.2 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "Consulta Wikipedia para fines no académicos, dudas espontáneas, uso escolar o liceal"^^xsd:string ;
+    ns1:categoria_superior ns1:ecd4 .
+
+ns1:ecd9.1 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "Cuando se acercan las fechas de parciales sobre ciertos temas"^^xsd:string ;
+    ns1:categoria_superior ns1:ecd9 .
+
+ns1:idd10 a ns1:interpretacion_de_dato ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.4 .
+
+ns1:idd11 a ns1:interpretacion_de_dato ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.4 .
+
+ns1:idd12 a ns1:interpretacion_de_dato ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.4 .
+
+ns1:idd13 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_a_informacion ns1:informacion1 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd6,
+        ns1:ecd6.1,
+        ns1:ecd6.1.1 .
+
+ns1:idd2 a ns1:interpretacion_de_dato ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.1 .
+
+ns1:idd3 a ns1:interpretacion_de_dato ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.1 .
+
+ns1:idd4 a ns1:interpretacion_de_dato ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.2 .
+
+ns1:idd5 a ns1:interpretacion_de_dato ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.2 .
+
+ns1:idd6 a ns1:interpretacion_de_dato ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.2 .
+
+ns1:idd7 a ns1:interpretacion_de_dato ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.3 .
+
+ns1:idd8 a ns1:interpretacion_de_dato ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.3 .
+
+ns1:idd9 a ns1:interpretacion_de_dato ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.3 .
+
+ns1:observacion rdfs:subClassOf ns1:tecnica .
+
+ns1:participante1 a ns1:participante ;
+    ns1:Es_participante_de ns1:sujeto1 ;
+    ns1:Nombre "Bruno Berreta"^^xsd:string .
+
+ns1:participante2 a ns1:participante ;
+    ns1:Es_participante_de ns1:sujeto1 ;
+    ns1:Nombre "Luis François Buere"^^xsd:string .
+
+ns1:participante3 a ns1:participante ;
+    ns1:Es_participante_de ns1:sujeto1 ;
+    ns1:Nombre "Juan Manuel Cabrera"^^xsd:string .
+
+ns1:video rdfs:subClassOf ns1:soporte .
+
+ns3:Bibliografia2 a ns1:Bibliografia ;
+    ns1:Autor "Francisco Albarello"^^xsd:string ;
+    ns1:Titulo "Mutaciones. Hábitos de información y estudio en universidades argentinas."^^xsd:string .
+
+ns3:Bibliografia4 a ns1:Bibliografia ;
+    ns1:Autor "Ciesielski"^^xsd:string ;
+    ns1:Es_parte_del_marco_teorico ns3:MarcoTeorico1 .
+
+ns1:E1 a ns1:metadatos ;
+    ns1:Valor "E1"^^xsd:string .
+
+ns1:E11 a ns1:metadatos ;
+    ns1:Valor "E11"^^xsd:string .
+
+ns1:E12 a ns1:metadatos ;
+    ns1:Valor "E12"^^xsd:string .
+
+ns1:E20 a ns1:metadatos ;
+    ns1:Valor "E20"^^xsd:string .
+
+ns1:E3 a ns1:metadatos ;
+    ns1:Valor "E3"^^xsd:string .
+
+ns1:E31 a ns1:metadatos ;
+    ns1:Valor "E31"^^xsd:string .
+
+ns1:E32 a ns1:metadatos ;
+    ns1:Valor "E32"^^xsd:string .
+
+ns1:E37 a ns1:metadatos ;
+    ns1:Valor "E37"^^xsd:string .
+
+ns1:E4 a ns1:metadatos ;
+    ns1:Valor "E4"^^xsd:string .
+
+ns1:EstrategiaMetodologica1 a ns1:estrategia_metodologica ;
+    ns1:Aplica_una_o_varias ns1:entrevista1,
+        ns1:entrevista2 ;
+    ns1:Objetivo "Exploratorio"^^xsd:string .
+
+ns1:Investigador1 a ns1:investigador ;
+    ns1:Nombre "Soledad Morales"^^xsd:string .
+
+ns1:Investigador2 a ns1:investigador ;
+    ns1:Nombre "Magela Cabrera"^^xsd:string .
+
+ns1:Investigador3 a ns1:investigador ;
+    ns1:Nombre "Rosalía Winocur"^^xsd:string .
+
+ns1:Investigador4 a ns1:investigador ;
+    ns1:Nombre "Camila Rojas"^^xsd:string .
+
+ns1:dato31 a ns1:registro ;
+    ns1:Metadato ns1:E31,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Se_interpreta ns1:idd1 ;
+    ns1:Valor "Cuando era adolescente creía que no representaba lo que era “ser joven”, ya que mis valores y actitudes distaban de las de mis pares, por ejemplo no me gustaba la misma música ni hacer las mismas actividades. Actualmente entiendo que ser joven es justamente tener esa posibilidad de elección de pertenencia a otros grupos, principalmente influenciada por internet y las redes sociales. También creo que lo que me diferencia es haber vivido una infancia sin computadoras o celulares pero con una rápida incorporación de las mismas en la adolescencia, al punto de que hoy en día no puedo vivir sin ellas"^^xsd:string .
+
+ns1:dato39 a ns1:campo,
+        ns1:registro ;
+    ns1:Metadato ns1:E20,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Valor "A mí lo que me define como joven, es la búsqueda constante de quién soy. Es replantear y cuestionarme lo que doy por sentado, lo establecido, mis lugares seguros y la incertidumbre de lo nuevo, lo desconocido. El comprometerme con luchas que me identifican y las que creo buscan una sociedad que reconozca al otro como otro y en todo su derecho. Que levantan la bandera de un mundo más amigable no solo con el individuo, sino también con el medio y el espacio que habitamos. La sensación de estar haciendo algo para que la estructuras que oprimen, estén cada vez más cerca de romperse. Como joven me define la intención que existe en la búsqueda de verdades propias, que tengan que ver con quien soy en realidad o con quién quiero ser, con la menor carga posible del deber ser. Es estar perdida y encontrarme en ese limbo, son los procesos, los errores y los comienzos, el movimiento constante; las tensiones entre la adolescente, la joven adulta y la adulta en construcción, es saber lo que no quiero mientras descubro lo que sí, intentando desligarme de la sensación de estar a contrarreloj. Re-conocerme y re-significarme."^^xsd:string .
+
+ns1:documento_enriquecido owl2vec:superClassOf ns1:registro ;
+    rdfs:subClassOf ns1:registro .
+
+ns1:eca1 a ns1:esquema_de_clasificacion_analitico ;
+    ns1:Relacionado_a_esquema_de_clasificacion_descriptivo ns1:ecd11.2,
+        ns1:ecd11.2.1 ;
+    ns1:Valor "Prácticas y representaciones acerca del estudio"^^xsd:string .
+
+ns1:eca1.1 a ns1:esquema_de_clasificacion_analitico ;
+    ns1:Relacionado_a_esquema_de_clasificacion_descriptivo ns1:ecd11.2.2 ;
+    ns1:Valor "Sociabilidad virtual y presencial: la relevancia del encuentro."^^xsd:string .
+
+ns1:eca2 a ns1:esquema_de_clasificacion_analitico ;
+    ns1:Relacionado_a_esquema_de_clasificacion_descriptivo ns1:ecd6,
+        ns1:ecd6.1,
+        ns1:ecd6.1.1 ;
+    ns1:Valor "Impacto de la trayectoria universitaria, la currícula y la labor docente en las prácticas de estudio"^^xsd:string .
+
+ns1:eca3 a ns1:esquema_de_clasificacion_analitico ;
+    ns1:Valor "El video es clave en el aprendizaje en el contexto de la actual cultura audiovisual"^^xsd:string .
+
+ns1:eca4 a ns1:esquema_de_clasificacion_analitico ;
+    ns1:Valor "Recursos bibliográficos y plataformas universitarias online: el valor de la síntesis y del atajo"^^xsd:string .
+
+ns1:ecd11.2.1 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "Haber aprendido distintos géneros de texto a lo largo de la carrera, lo cual me permite tener una mejor comprensión de cada cuál"^^xsd:string ;
+    ns1:categoria_superior ns1:ecd11,
+        ns1:ecd11.2 .
+
+ns1:ecd9.3 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "Para ampliar información."^^xsd:string ;
+    ns1:categoria_superior ns1:ecd9 .
+
+ns1:idd1 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_al_registro ns1:dato31 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd1,
+        ns1:ecd1.1 .
+
+ns1:idd14 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_a_informacion ns1:informacion2 ;
+    ns1:Relacionado_al_registro ns1:dato44 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd6,
+        ns1:ecd6.1,
+        ns1:ecd6.1.1 .
+
+ns1:idd15 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_a_informacion ns1:informacion2 ;
+    ns1:Relacionado_al_registro ns1:dato45 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd6,
+        ns1:ecd6.1,
+        ns1:ecd6.1.1 .
+
+ns1:idd16 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_a_informacion ns1:informacion2 ;
+    ns1:Relacionado_al_registro ns1:dato46 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd6,
+        ns1:ecd6.1,
+        ns1:ecd6.1.1 .
+
+ns1:idd17 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_al_registro ns1:dato47 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd11,
+        ns1:ecd11.2,
+        ns1:ecd11.2.2 .
+
+ns1:idd18 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_a_informacion ns1:informacion3 ;
+    ns1:Relacionado_al_registro ns1:dato48 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd11,
+        ns1:ecd11.2,
+        ns1:ecd11.2.2 .
+
+ns1:idd19 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_a_informacion ns1:informacion4 ;
+    ns1:Relacionado_al_registro ns1:dato49 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd9,
+        ns1:ecd9.2 .
+
+ns1:idd20 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_a_informacion ns1:informacion4 ;
+    ns1:Relacionado_al_registro ns1:dato50 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd9,
+        ns1:ecd9.2 .
+
+ns1:idd21 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_al_registro ns1:dato51 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd9,
+        ns1:ecd9.3 .
+
+ns1:idd22 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_a_informacion ns1:informacion5 ;
+    ns1:Relacionado_al_registro ns1:dato52 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd4,
+        ns1:ecd4.1 .
+
+ns1:idd23 a ns1:interpretacion_de_dato ;
+    ns1:Relacionado_a_informacion ns1:informacion5 ;
+    ns1:Relacionado_al_registro ns1:dato53 ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:ecd4,
+        ns1:ecd4.1 .
+
+ns1:informacion1 a ns1:informacion ;
+    ns1:Tiene_esquema_de_clasificacion_analitica ns1:eca1,
+        ns1:eca1.1 ;
+    ns1:Valor "En la investigación pudo constatarse que las y los estudiantes combinan de forma pragmática prácticas tradicionales y digitales de estudio asociadas a los modos de sociabilidad virtuales y presenciales. Particularmente lo que se observa es que identifican en qué momentos les es oportuno y/o pertinente generar espacios de encuentro para el estudio. Estos espacios pueden ser presenciales o virtuales, pero lo que marca la diferencia con el estudio individual y por separado son los objetivos de aprendizaje, de las tareas, trabajos o productos que deben realizar."^^xsd:string .
+
+ns1:informacion3 a ns1:informacion ;
+    ns1:Tiene_esquema_de_clasificacion_analitica ns1:eca2 ;
+    ns1:Valor """Los cambios en las prácticas de estudio y competencias para la lectura comprensiva y la capacidad de síntesis, siguen muy vinculadas al trayecto académico universitario y a los aportes que reconocen de manera explícita o implícita  les brindó la carrera y parte del cuerpo docente. En particular, se observan procesos de inclusión y exclusión de estrategias de aprendizaje y estudio para las que el trayecto por la institución universitaria les brindó elementos de identificación. En este tránsito, las/os estudiantes desarrollan sus propias estrategias de autorregulación que les permite planificar y controlar su proceso de estudio, siendo ellos quienes toman las decisiones y asumen la responsabilidad por su propio proceso (Pereira, 2005). 
+Las/os estudiantes reconocen en la escolaridad universitaria, haber adquirido competencias para identificar qué recursos utilizar, cuánto tiempo les implica estudiar para una asignatura y cómo mejorar su desempeño en el estudio."""^^xsd:string .
+
+ns1:notas_de_campo owl2vec:superClassOf ns1:registro ;
+    rdfs:subClassOf ns1:registro .
+
+ns1:objetivo1 a ns1:objetivo ;
+    rdfs:comment "Extraido del documento \"Matriz de Investigación\""^^xsd:string .
+
+ns1:objetivo2 a ns1:objetivo ;
+    rdfs:comment "Extraido del documento \"Matriz de Investigación\""^^xsd:string .
+
+ns1:objetivo3 a ns1:objetivo ;
+    rdfs:comment "Extraido del documento \"Matriz de Investigación\""^^xsd:string .
+
+ns1:proyecto_de_investigacion ns1:Define ns1:estrategia_metodologica ;
+    ns1:Es_participante ns1:investigador ;
+    ns1:Tiene_marco_teorico ns1:marco_teorico ;
+    ns1:Tiene_objetivo ns1:objetivo ;
+    ns3:Tiene_bibliografia ns1:Bibliografia ;
+    owl2vec:typeOf ns1:InvestigacionEstrategiaEstudio ;
+    rdfs:subClassOf ns1:formulacion .
+
+ns1:texto owl2vec:typeOf ns1:soporte1 ;
+    rdfs:subClassOf ns1:soporte .
+
+ns3:MarcoTeorico1 a ns1:marco_teorico ;
+    ns1:Autor "(Ciesielski et al., 2017)."^^xsd:string ;
+    ns1:Valor "TRANSDISCIPLINA: es una práctica de investigación basada en la articulación de varias disciplinas en torno al estudio de una pregunta específica, llegándose a generar una nueva parcela de conocimiento, la cual surge como resultado de la superación de los límites de algunas/todas las disciplinas involucradas. Un enfoque TDR comienza desde el diseño mismo de la investigación, y precisa de la creación de una arena e idioma comunes desde los que poder trabajar en conjunto y trascender los marcos tradicionales. Como el propio prefijo “trans” indica, la TDR se corresponde con lo que está entre, a través de y más allá de las disciplinas, siendo por tanto capaz de generar cuestiones e hipótesis imposibles de plantear desde una dinámica DR tradicional."^^xsd:string .
+
+ns3:reformulacion ns3:Destino_de_reformulacion ns1:formulacion ;
+    ns3:Se_reformula ns1:formulacion .
+
+ns1:E17 a ns1:metadatos ;
+    ns1:Valor "E17"^^xsd:string .
+
+ns1:E18 a ns1:metadatos ;
+    ns1:Valor "E18"^^xsd:string .
+
+ns1:E19 a ns1:metadatos ;
+    ns1:Valor "E19"^^xsd:string .
+
+ns1:E21 a ns1:metadatos .
+
+ns1:E30 a ns1:metadatos ;
+    ns1:Valor "E30"^^xsd:string .
+
+ns1:Manual_descriptivo_Soledad a ns1:metadatos .
+
+ns1:ecd4.1 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "SI. Wikipedia,  Youtube, Educatina"^^xsd:string ;
+    ns1:categoria_superior ns1:ecd4 .
+
+ns1:ecd9.2 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "Para comprender mejor, entender algunos temas o libros"^^xsd:string ;
+    ns1:categoria_superior ns1:ecd9 .
+
+ns1:estrategia_metodologica ns1:Aplica_una_o_varias ns1:tecnica ;
+    owl2vec:typeOf ns1:EstrategiaMetodologica1 ;
+    rdfs:subClassOf ns1:formulacion .
+
+ns1:informacion4 a ns1:informacion ;
+    ns1:Tiene_esquema_de_clasificacion_analitica ns1:eca3 ;
+    ns1:Valor "El recurso del video es utilizado y percibido como un apoyo importante para ampliar, ayudar a entender lo que se estudia y como alternativa o material complementario al texto."^^xsd:string .
+
+ns1:informacion5 a ns1:informacion ;
+    ns1:Tiene_esquema_de_clasificacion_analitica ns1:eca4 ;
+    ns1:Valor "La trayectoria universitaria también ha colaborado en el cambio en la utilización de recursos como Wikipedia y otros similares. En general son usados de forma complementaria al texto, fundamentalmente al inicio de la búsqueda de un tema, autor o concepto, para poder tener una síntesis o comprender mejor lo que están leyendo."^^xsd:string .
+
+ns1:pregunta12 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista2 ;
+    ns1:TIene_respuesta ns1:dato12 ;
+    ns1:Valor "¿El uso y apropiación de dichas herramientas cambió por la situación de la pandemia? ¿Incorporaron el Zoom, u otra aplicación similar para reunirse, o ponerse de acuerdo?"^^xsd:string .
+
+ns1:reporte ns2:_Alcanza ns1:objetivo ;
+    rdfs:subClassOf ns1:analisis .
+
+ns1:sujeto owl2vec:typeOf ns1:sujeto1 ;
+    rdfs:subClassOf ns1:sujeto_u_objeto .
+
+ns1:E25 a ns1:metadatos ;
+    ns1:Valor "E25"^^xsd:string .
+
+ns1:dato1 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta1 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor """A mí lo que me define como joven son una serie de gustos y consumos que algunas personas los consideran para una población más jóven. A mis 35 años tengo una colección de historietas, figuras y libros de ciencia ficción y superhéroes. Estas colecciones junto a los libros de política e historia, son las que ocupan un mayor lugar en mi biblioteca. Así mismo disfruto de ver películas y series vinculadas a estas temáticas.
+Otro punto que me define como jóven es como intento interpretar diferentes situaciones de la vida y la proyección que aún tengo para mi futuro. 
+Desde los 15 años he estudiado y trabajado en el área de la informática, por lo que siempre he tenido una cercanía con las nuevas tecnologías. Ese contacto me ha permitido siempre estar actualizado, en constante aprendizaje y a la par de las generaciones que venían atrás mío."""^^xsd:string .
+
+ns1:dato10 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta10 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "No la he cambiado sustancialmente ya que he pasado por la experiencia de la facultad en el pasado."^^xsd:string .
+
+ns1:dato11 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta11 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "Mi preferencia de lectura es sin lugar a dudas en pantalla. La comodidad de estar sentado en una silla de escritorio leyendo en un monitor grande o hasta con dos monitores facilitando la toma de apuntes en digital."^^xsd:string .
+
+ns1:dato12 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta12 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "Como mencioné anteriormente, las herramientas no las cambié por la Pandemia dado a que ya las tenía incorporadas a causa de mi vida profesional. El único cambio que puedo destacar es el uso frecuente de la plataforma Zoom en lugar de Discord, que era la que más utilizaba."^^xsd:string .
+
+ns1:dato13 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta13 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "Qué las reuniones virtuales se hayan normalizado en nuestras vidas ha sido de un inmenso valor. La cantidad de horas ganadas y facilidades que esta plataforma nos da no tiene comparación con la presencialidad."^^xsd:string .
+
+ns1:dato14 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta14 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "Por la cantidad de lectura exigida por los docentes, la cantidad de lectura de ocio ha mermado."^^xsd:string .
+
+ns1:dato15 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta15 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "Busco información sobre cine, en especial de películas de ciencia ficción. En Youtube busco los debates sobre esta temática así como información acerca de la música. En especial las batallas de freestyle que se dan en diferentes países."^^xsd:string .
+
+ns1:dato16 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta1 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "A mi lo que me define como joven es el sentimiento que uno tiene al creer que queda mucho por vivir, en el contexto temporal, y también mucho por aprender, como parte del proceso que uno lleva adelante."^^xsd:string .
+
+ns1:dato17 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta2 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor """Si tuviera que explicar quién soy (y quién no soy) en las redes y fuera de las redes diría lo siguiente: 
+En primer lugar, dentro de las redes sociales, muestro algunas cosas de mi vida cotidiana solamente a un selecto grupo de personas, que suele ser gente de confianza para mi. Esto fue facilitado gracias a las herramientas que brindan redes sociales como Instagram, con sus historias para "Mejores Amigos", o Twitter, con el surgimiento del "Círculo". En lo que respecta al contenido que posteo en las redes sociales, me considero reservado, ya que no suelo mostrar muchas cosas que me identifiquen en sí, más allá de algunas cosas que me interesan o la música que escucho diariamente. Más que nada, utilizo las redes sociales para informarme de lo que pasa a mi alrededor y también, como forma de entretenimiento. Fuera de las redes sociales o como se suele decir, en el "mundo exterior", también soy una persona reservada, pero mostrando también otras caras de mi personalidad como un tipo introvertido y solitario. Esto último, generalmente, es lo que no se percibe desde las redes sociales."""^^xsd:string .
+
+ns1:dato18 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta3 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "Para mi el pasado es o representa eso que uno mismo construye a través de relatos de personas que vivieron épocas anteriores a la nuestra. También es algo que nos ayuda a saber de dónde venimos y a qué venimos, ya que podemos decidir después en el presente o en el futuro qué debemos hacer y qué no. Por otro lado, si pudiera viajar hacia atrás en el tiempo, me gustaría poder llevar a cabo una vida cotidiana sin las facilidades que nos brinda la tecnología en el presente"^^xsd:string .
+
+ns1:dato19 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta4 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "Para mi el presente es o representa eso a lo que llamo \"el día a día\", las actividades que estoy haciendo en este momento, que, si bien esas actividades son con miras hacia el futuro, son objetivos planteados ahora. También es la forma en la que me relaciono con los demás, ya que, en el futuro, esas formas de socialización que tenemos hoy pueden cambiar. Eso también es el presente, el hecho de comprender el contexto que estamos viviendo."^^xsd:string .
+
+ns1:dato2 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta2 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "Si tuviera que explicar quién soy (y quién no soy) en las redes sociales y fuera de las mismas diría lo siguiente. En las redes ya desde hace años, cada vez expongo menos sobre mi vida diaria. En Facebook ya no comparto ni visualizo nada sobre mis amigos, en Instagram la utilizó simplemente para ver reels y compartirlos entre unos pocos por mensajes privado, y Twitter, particularmente, se ha vuelto la red social que más puede explicar sobre quien soy o como pienso políticamente y a nivel deportivo. En definitiva, las redes dicen más sobre quien no soy, ya que no las utilizó con los fines para las que fueron pensadas. Fuera de las redes soy un trabajador, informático, estudiante, compañero, que le gustan las tecnologías pero puede vivir sin ellas, que sigue descubriendo un nuevo rumbo académico y que sabe que tiene mucho por aprender y recorrer aún."^^xsd:string .
+
+ns1:dato20 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta5 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "Para mi el futuro es o representa la intriga de saber qué es lo que va a suceder. Por un lado, representa esas ideas o proyectos que tengo en mente para seguir creciendo tanto en lo personal como en lo profesional. Por otro lado, está la intriga de lo que va a pasar a mi alrededor, los constantes cambios que pueden haber en todo el Mundo, de saber si ese futuro va a ser lo que imaginaba cuando era niño; la evolución de la tecnología que me iba a llevar a ver autos voladores o robots en las calles, a la par de las personas. Más allá de todo eso, concluyo que el futuro significa intriga."^^xsd:string .
+
+ns1:dato21 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta6 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "En cuánto a la información, utilizo las redes sociales para enterarme de lo que pasa a mi alrededor, principalmente Twitter e Instagram. Por otro lado, para las tareas en equipo, herramientas como WhatsApp, Zoom y Google Meet, se volvieron indispensables a la hora de llevar a cabo dichas tareas."^^xsd:string .
+
+ns1:dato22 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta7 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "A lo largo de la carrera, puedo afirmar que mi experiencia con EVA ha sido positiva, nunca he tenido problemas utilizando esta herramienta. En cuánto a Adán, es un sitio que he visitado muchas veces y he extraído información necesaria para muchos cursos que realicé, gracias a sus facilidades, como por ejemplo las clases grabadas, resúmenes realizados por otros compañeros y ejemplos de parciales anteriores."^^xsd:string .
+
+ns1:dato23 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta8 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "Personalmente, solo utilizo el sitio de Wikipedia para reforzar conceptos, pero no lo tomo como una principal fuente de información. En ese caso, preferiría buscar artículos o páginas en internet que incluyan una información más verídica."^^xsd:string .
+
+ns1:dato24 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta9 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "No es un método que utilizo, pero si lo he hecho para tratar de comprender algunos libros que me resultaron complejos."^^xsd:string .
+
+ns1:dato26 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta11 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "Personalmente, siempre fui partidario de leer los textos fotocopiados, para luego resumirlos a mano en papel. Pero, bajo el contexto de la pandemia y la virtualidad, me fui adaptando a la lectura en pantalla. Hoy en día, este formato me resulta más práctico."^^xsd:string .
+
+ns1:dato27 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta13 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "En ese contexto, el uso de Zoom y de Google Meet se me hizo muy frecuente. Hoy en día, a pesar de haber vuelto a la presencialidad, siguen siendo herramientas muy importantes, ya que facilitan las reuniones y los trabajos en equipo."^^xsd:string .
+
+ns1:dato28 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta13 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "A diferencia de los encuentros presenciales, las herramientas mencionadas anteriormente, utilizadas en los encuentros virtuales, nos facilitan la coordinación en las tareas y el intercambio entre los integrantes del grupo, generando una forma de trabajar más práctica."^^xsd:string .
+
+ns1:dato29 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta14 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "A medida que se va avanzando en la carrera, la exigencia conlleva a leer aún más para ir adquiriendo más conocimientos."^^xsd:string .
+
+ns1:dato3 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta3 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "Para mi el pasado es o representa aprendizaje y experiencias de vida. Muchas de ellas dolorosas pero muchas más de las que vale la pena acordarse."^^xsd:string .
+
+ns1:dato30 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta15 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "Por iniciativa, busco distintos artículos en internet que hablen sobre actualidad, ya sea sobre deportes, principalmente el fútbol o basquetbol, así como también leo artículos acerca de videojuegos. También, estando lejos de Salto, que es mi ciudad de origen, trato de seguir lo que pasa allí visitando los portales digitales de los diarios de la ciudad."^^xsd:string .
+
+ns1:dato4 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta4 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "Para mí el presente es o representa avanzar en un camino de mil rutas, donde muchas veces piensas que sabes el destino pero te encuentras un sinfín de posibilidades. El presente es el constante cambio de lo imprevisto pero de cierta forma ya planificado."^^xsd:string .
+
+ns1:dato5 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta5 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "Para mí el futuro representa muchos objetivos y sueños por cumplir. Representa proyectos, viajes por realizar y seguir descubriéndose uno mismo."^^xsd:string .
+
+ns1:dato6 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta6 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor """El recurso que utilizo para informarme es el digital, a través de Twitter sigo a periodistas y medios que apuntan a brindar diferente tipo de información. También visito diariamente los distintos portales digitales nacionales e internacionales. 
+Con respecto a la organización de las tareas en equipo, el Whatsapp, Zoom y Discord ocupan el podio de las herramientas que más utilizo."""^^xsd:string .
+
+ns1:dato7 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta7 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor """Mi experiencia con EVA ha sido muy positiva, al pasar cada semestre los cuerpos docentes han mejorado en la distribución y organización de los materiales y tareas. Por ser dirigente sindical tuve la oportunidad de conocer y trabajar directamente con la plataforma Moodle y se vislumbra el gran trabajo que hay detrás de EVA. 
+Conozco a Adan pero nunca la he utilizado."""^^xsd:string .
+
+ns1:dato8 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta8 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "Wikipedia es una página que suelo consultar para distintos fines. Si bien conozco Educatina, no recurro a ella cuando deseo conocer alguna temática en profundidad, sino que realizo la búsqueda directamente en YouTube."^^xsd:string .
+
+ns1:dato9 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta9 ;
+    ns1:Soportado_en ns1:soporte1 ;
+    ns1:Valor "Suelo buscar conferencias de autores cuando se acercan las fechas de parciales y me siento flojo en algún tema."^^xsd:string .
+
+ns1:ecd1.1 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Nombre "SER PARTE DE UNA GENERACIÓN Generación Z,  Nativos digitales, generación que creció con la tecnología y se apoya en ella"^^xsd:string ;
+    ns1:categoria_superior ns1:ecd1 .
+
+ns1:ecd1.2 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Nombre "INCERTIDUMBRE, Inmediatez , el día a día"^^xsd:string ;
+    ns1:categoria_superior ns1:ecd1 .
+
+ns1:ecd1.3 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Nombre "COMPROMISO SOCIAL, Militancia, pelear por una causa, tener ideales."^^xsd:string ;
+    ns1:categoria_superior ns1:ecd1 .
+
+ns1:ecd1.4 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Nombre "OPTIMISMO.Mucho por vivir. La esperanza. Infinitas posibilidades. Vivir sin prejuicios; Disfrute, ser feliz"^^xsd:string ;
+    ns1:categoria_superior ns1:ecd1 .
+
+ns1:ecd11.2.2 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "Ahora me considero más crítica con la información que manejo que me ha llevado a no confiar tanto en lo que leo en la web, sino que prefiero apoyarme en la bibliografía recomendada”."^^xsd:string ;
+    ns1:categoria_superior ns1:ecd11,
+        ns1:ecd11.2 .
+
+ns1:informacion2 a ns1:informacion ;
+    ns1:Valor "Existen entonces criterios para definir la necesidad del encuentro que son identificados por los/as estudiantes identifican claramente qué tecnología para qué objetivo, esto es una construcción que se ha dado a partir de la experiencia y de la generación de acuerdos explícitos pero a veces implícitos producto de la aceptación de ciertas reglas de juego que se van estableciendo, por ejemplo, en los grupos de trabajo."^^xsd:string .
+
+ns1:marco_teorico owl2vec:typeOf ns3:MarcoTeorico1 ;
+    rdfs:subClassOf ns1:formulacion .
+
+ns1:participante ns1:Es_participante_de ns1:sujeto ;
+    owl2vec:typeOf ns1:participante1,
+        ns1:participante2,
+        ns1:participante3 ;
+    rdfs:subClassOf ns1:campo .
+
+ns1:pregunta11 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista2 ;
+    ns1:TIene_respuesta ns1:dato11,
+        ns1:dato26 ;
+    ns1:Valor "¿Dónde prefieres leer los textos de cada asignatura?: ¿En pantalla?, ¿en fotocopia?, ¿en libro? ¿en todos?"^^xsd:string .
+
+ns1:pregunta14 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista2 ;
+    ns1:TIene_respuesta ns1:dato14,
+        ns1:dato29 ;
+    ns1:Valor "Aparte de las lecturas que exigen los profesores, ¿has notado que lees más o menos por tu cuenta que al inicio de la carrera?"^^xsd:string .
+
+ns1:pregunta15 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista2 ;
+    ns1:TIene_respuesta ns1:dato15,
+        ns1:dato30 ;
+    ns1:Valor "Describe qué tipo de información buscas y lees en Internet por propia iniciativa, gusto o placer. (citar ejemplos)"^^xsd:string .
+
+ns1:pregunta2 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista1 ;
+    ns1:TIene_respuesta ns1:dato17,
+        ns1:dato2 ;
+    ns1:Valor "Si tuviera que explicar quién soy (y quién no soy) en las redes y fuera de las redes diría lo siguiente….."^^xsd:string .
+
+ns1:pregunta3 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista1 ;
+    ns1:TIene_respuesta ns1:dato18,
+        ns1:dato3 ;
+    ns1:Valor "Para mi el pasado es o representa…"^^xsd:string .
+
+ns1:pregunta4 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista1 ;
+    ns1:TIene_respuesta ns1:dato19,
+        ns1:dato4 ;
+    ns1:Valor "Para mí el presente es o representa…."^^xsd:string .
+
+ns1:pregunta7 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista2 ;
+    ns1:TIene_respuesta ns1:dato22,
+        ns1:dato7 ;
+    ns1:Valor "¿Cómo valoras tu experiencia con EVA?, ¿Utilizaste en algún momento Adam?, ¿te resultó útil?"^^xsd:string .
+
+ns1:pregunta8 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista2 ;
+    ns1:TIene_respuesta ns1:dato23,
+        ns1:dato8 ;
+    ns1:Valor "¿Consultas Wikipedia o la plataforma Educatina, u otras?"^^xsd:string .
+
+ns1:tecnica_sobre_sujeto_u_objeto ns1:Genera ns1:registro ;
+    ns1:Relacionado_a_sujeto_u_objeto ns1:sujeto_u_objeto ;
+    ns1:Relacionado_a_tecnica ns1:tecnica ;
+    owl2vec:typeOf ns1:ttsuo1,
+        ns1:ttsuo2 .
+
+ns1:Bibliografia ns1:Es_parte_del_marco_teorico ns1:marco_teorico ;
+    owl2vec:typeOf ns1:Bibliografia1,
+        ns3:Bibliografia2,
+        ns3:Bibliografia4 ;
+    rdfs:subClassOf ns1:formulacion .
+
+ns1:Manual_descriptivo_Magela a ns1:metadatos ;
+    ns1:Valor "Manual descriptivo Magela"^^xsd:string .
+
+ns1:analisis ns1:Interpretacion_de_analisis ns3:reformulacion ;
+    ns1:Origen_de_reformulacion ns3:reformulacion ;
+    owl2vec:superClassOf ns1:Esquema_de_clasificacion_descriptivo,
+        ns1:esquema_de_clasificacion_analitico,
+        ns1:informacion,
+        ns1:metadatos,
+        ns1:reporte .
+
+ns1:dato25 a ns1:campo,
+        ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta10 ;
+    ns1:Soportado_en ns1:soporte2 ;
+    ns1:Valor "A medida que fui avanzando en la carrera, fui observando todo lo que veo en Internet desde otra perspectiva, con una mirada más objetiva para saber qué tan verídica es esa información. También, al buscar determinado tema en la web y no encontrarlo con facilidad, desarrollé otras técnicas de búsqueda. Por ejemplo, al tener un manejo aceptable con el inglés, busco dicha información en ese idioma. Esto me resultó muy factible y me fue de gran ayuda para las distintas tareas que he realizado."^^xsd:string .
+
+ns1:dato40 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Es_generado_por ns1:ttsuo1 ;
+    ns1:Metadato ns1:E1,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:varón ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta1 ;
+    ns1:Valor "A mi lo que me define como joven es el sentimiento que uno tiene al creer que queda mucho por vivir, en el contexto temporal, y también mucho por aprender, como parte del proceso que uno lleva adelante"^^xsd:string .
+
+ns1:dato41 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Es_generado_por ns1:ttsuo1 ;
+    ns1:Metadato ns1:E3,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta1 ;
+    ns1:Valor "A mí lo que me define como joven es la constante búsqueda de mi propia identidad, de en ese traspaso a la adultez sentir que me conozco lo suficiente como para saber qué quiero estudiar/trabajar, con quien quiero compartir mi tiempo y de qué manera. Ser joven para mi es estar en un constante prueba y error con el objetivo de aprender lo que deseo o no, es el momento de mi vida en el cual tengo energías y tiempo para seguir luego de una equivocación sacando lo mejor de esta"^^xsd:string .
+
+ns1:dato42 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Es_generado_por ns1:ttsuo1 ;
+    ns1:Metadato ns1:E30,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Responde_a_entrevista ns1:entrevista1 ;
+    ns1:Responde_a_pregunta ns1:pregunta5 ;
+    ns1:Valor "la libertad de poder elegir lo que quiero, cómo quiero vivir, pero también el miedo a poder lograrlo"^^xsd:string .
+
+ns1:dato48 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Metadato ns1:E25,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta10 ;
+    ns1:Se_interpreta ns1:idd18 ;
+    ns1:Valor "Sí, ha cambiado mi sistema de búsqueda y lectura de la información desde el inicio de la carrera. En mi caso, el haber pasado directamente de la secundaria a la universidad, hace que recuerde recientemente el modo previo de captar la información. En la facultad, en general opuesto al liceo, debemos hacer las cosas por nuestra cuenta, por lo que el lograr un método de estudio eficiente ha sido un proceso en el cual aún sigo desarrollando e innovando de acuerdo a las circunstancias. He notado no hace muchos meses, que logro leer sin tener que releer muchas veces un texto, así como la comprensión en clase es más rápida y clara que en los primeros semestres"^^xsd:string .
+
+ns1:dato49 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Metadato ns1:E11,
+        ns1:Manual_descriptivo_Magela,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta9 ;
+    ns1:Se_interpreta ns1:idd19 ;
+    ns1:Valor "Si veo que me cuesta incorporar cierto conocimiento, por lo general, busco ayuda en materiales que me resulten explicativos: resúmenes, videos en YouTube sobre los autores trabajados o conferencias, clases grabadas, etc."^^xsd:string .
+
+ns1:dato50 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Metadato ns1:E19,
+        ns1:Manual_descriptivo_Magela,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:varón ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta9 ;
+    ns1:Se_interpreta ns1:idd20 ;
+    ns1:Valor "En algún caso muy puntual donde algo no me ha quedado claro recurro a ver youtube para ver si algún usuario subió algo relacionado. Y a veces algún profesor de otro lado sube algo similar que permite orientarse respecto a autores en concreto muy pocas ocasiones, pero también he buscado."^^xsd:string .
+
+ns1:dato51 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Metadato ns1:E21,
+        ns1:Manual_descriptivo_Magela,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta9 ;
+    ns1:Se_interpreta ns1:idd21 ;
+    ns1:Valor "No específicamente conferencias pero si suelo buscar entrevistas realizadas a los docentes sobre sus publicaciones/series, sobre todo de la rama audiovisual. Me resulta interesante cuando ellos cuentan cómo surgieron sus proyectos y sus propias trayectorias profesionales."^^xsd:string .
+
+ns1:dato52 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Metadato ns1:E4,
+        ns1:Manual_descriptivo_Magela,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:varón ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta6 ;
+    ns1:Se_interpreta ns1:idd22 ;
+    ns1:Valor "Consulto Wikipedia habitualmente para informarme de forma rápida. En caso de necesitar más profundidad busco otros sitios calificados. No tengo ningún sitio predilecto."^^xsd:string .
+
+ns1:dato53 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Metadato ns1:E21,
+        ns1:Manual_descriptivo_Soledad,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta6 ;
+    ns1:Se_interpreta ns1:idd23 ;
+    ns1:Valor "Consulto Wikipedia, a veces, o “el rincón del vago” para información en general y después para hacer algún trabajo ocurro a otras plataformas con una información más desarrollada para realizar alguna tarea individual o grupal."^^xsd:string .
+
+ns1:ecd4 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "Uso de Wikipedia, Educatina, u otros similares"^^xsd:string .
+
+ns1:entrevista ns1:Tiene_pregunta ns1:pregunta ;
+    ns1:Tiene_respuestas ns1:respuesta_a_entrevista ;
+    owl2vec:typeOf ns1:entrevista1,
+        ns1:entrevista2 ;
+    rdfs:subClassOf ns1:tecnica .
+
+ns1:pregunta13 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista2 ;
+    ns1:TIene_respuesta ns1:dato13,
+        ns1:dato27,
+        ns1:dato28 ;
+    ns1:Valor "¿Qué valor le asignas a los encuentros presenciales y a los virtuales dentro de las estrategias para estudiar y organizar las tareas en equipo?"^^xsd:string .
+
+ns1:pregunta5 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista1 ;
+    ns1:TIene_respuesta ns1:dato20,
+        ns1:dato42,
+        ns1:dato5 ;
+    ns1:Valor "Para mí el futuro es o representa……"^^xsd:string .
+
+ns1:ttsuo1 a ns1:tecnica_sobre_sujeto_u_objeto ;
+    ns1:Fecha_de_realizacion "2022-11-27T00:00:00"^^xsd:dateTime ;
+    ns1:Genera ns1:dato40,
+        ns1:dato41,
+        ns1:dato42 ;
+    ns1:Relacionado_a_sujeto_u_objeto ns1:sujeto1 ;
+    ns1:Relacionado_a_tecnica ns1:entrevista1 .
+
+ns1:campo owl2vec:superClassOf ns1:participante,
+        ns1:registro,
+        ns1:soporte,
+        ns1:sujeto_u_objeto ;
+    owl2vec:typeOf ns1:dato25,
+        ns1:dato39 .
+
+ns1:dato44 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Es_generado_por ns1:ttsuo2 ;
+    ns1:Metadato ns1:E17,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta6 ;
+    ns1:Se_interpreta ns1:idd14 ;
+    ns1:Valor "Para compartir información uso gmail o wpp (mas para compartir resúmenes o textos de la bibliografía). Para organizar las tareas google drive es el principal , creamos un documento de google donde lo compartimos por wpp o gmail."^^xsd:string .
+
+ns1:dato45 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Es_generado_por ns1:ttsuo2 ;
+    ns1:Metadato ns1:E18,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta6 ;
+    ns1:Se_interpreta ns1:idd15 ;
+    ns1:Valor "Para realizar las tareas en grupo utilizamos los documentos compartidos de google drive y nos compartimos información por whatsapp. En trabajos en que se precisa la búsqueda de información, buena bibliografía y de investigaciones utilizo el google académico y Dialnet"^^xsd:string .
+
+ns1:dato46 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Es_generado_por ns1:ttsuo2 ;
+    ns1:Metadato ns1:E25,
+        ns1:Manual_descriptivo_Soledad,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta6 ;
+    ns1:Se_interpreta ns1:idd16 ;
+    ns1:Valor "Los recursos principales para la organización de tareas es WhatsApp para planificar horarios y para estar en permanente contacto en caso de que surjan dudas o enviarnos textos para leer luego. En segundo lugar el zoom ha resultado muy útil para los encuentros, entendemos que no sustituye el cara a cara pero con la carga de horarios y las dificultades para coordinar espacios libres, la mayoría de las reuniones las desarrollamos por la noche cuando ya no tenemos tareas pendientes por lo que para esa hora, el zoom se volvió un facilitador. En tercer lugar, la plataforma para ir guardando todos los aportes que cada uno va realizando es Google Drive, permitiendo guardar en simultáneo lo trabajado a medida que lo vamos desarrollando"^^xsd:string .
+
+ns1:dato47 a ns1:registro,
+        ns1:respuesta_a_entrevista ;
+    ns1:Es_generado_por ns1:ttsuo2 ;
+    ns1:Metadato ns1:E25,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer ;
+    ns1:Responde_a_entrevista ns1:entrevista2 ;
+    ns1:Responde_a_pregunta ns1:pregunta10 ;
+    ns1:Se_interpreta ns1:idd17 ;
+    ns1:Valor "Sí, ha cambiado mi sistema de búsqueda y lectura de la información desde el inicio de la carrera. En mi caso, el haber pasado directamente de la secundaria a la universidad, hace que recuerde recientemente el modo previo de captar la información. En la facultad, en general opuesto al liceo, debemos hacer las cosas por nuestra cuenta, por lo que el lograr un método de estudio eficiente ha sido un proceso en el cual aún sigo desarrollando e innovando de acuerdo a las circunstancias. He notado no hace muchos meses, que logro leer sin tener que releer muchas veces un texto, así como la comprensión en clase es más rápida y clara que en los primeros semestres."^^xsd:string .
+
+ns1:ecd11.2 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "SI."^^xsd:string ;
+    ns1:categoria_superior ns1:ecd11 .
+
+ns1:ecd6.1.1 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Nombre "Whatsapp, Zoom y Discord. Google drive, Google meet, Gmail, Zoom, EVA, Navegadores (Chrome)."^^xsd:string ;
+    ns1:categoria_superior ns1:ecd6,
+        ns1:ecd6.1 .
+
+ns1:investigador owl2vec:typeOf ns1:Investigador1,
+        ns1:Investigador2,
+        ns1:Investigador3,
+        ns1:Investigador4 ;
+    rdfs:subClassOf ns1:formulacion .
+
+ns1:objetivo owl2vec:typeOf ns1:objetivo1,
+        ns1:objetivo2,
+        ns1:objetivo3 ;
+    rdfs:subClassOf ns1:formulacion .
+
+ns1:pregunta1 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista1 ;
+    ns1:TIene_respuesta ns1:dato1,
+        ns1:dato16,
+        ns1:dato40,
+        ns1:dato41 ;
+    ns1:Valor "A mí lo que me define como joven es …….."^^xsd:string .
+
+ns1:pregunta10 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista2 ;
+    ns1:TIene_respuesta ns1:dato10,
+        ns1:dato25,
+        ns1:dato47,
+        ns1:dato48 ;
+    ns1:Valor "¿Ha cambiado tu sistema de búsqueda y lectura de la información desde el inicio de la carrera? Explica de qué forma ha cambiado y por qué"^^xsd:string .
+
+ns1:soporte owl2vec:superClassOf ns1:texto,
+        ns1:video ;
+    owl2vec:typeOf ns1:soporte1,
+        ns1:soporte2 ;
+    rdfs:subClassOf ns1:campo .
+
+ns1:sujeto_u_objeto owl2vec:superClassOf ns1:documento,
+        ns1:sujeto ;
+    owl2vec:typeOf ns1:sujeto1 ;
+    rdfs:subClassOf ns1:campo .
+
+ns1:ttsuo2 a ns1:tecnica_sobre_sujeto_u_objeto ;
+    ns1:Genera ns1:dato44,
+        ns1:dato45,
+        ns1:dato46,
+        ns1:dato47 ;
+    ns1:Relacionado_a_sujeto_u_objeto ns1:sujeto1 ;
+    ns1:Relacionado_a_tecnica ns1:entrevista2 .
+
+ns1:ecd11 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "Percepción de cambios en la forma de buscar y leer en la trayectoria escolar"^^xsd:string .
+
+ns1:ecd6.1 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Nombre "Recursos, redes y plataformas utilizadas para organizar las tareas en equipo"^^xsd:string ;
+    ns1:categoria_superior ns1:ecd6 .
+
+ns1:ecd9 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Valor "Utilización de videoconferencias de los autores o profesores en Youtube"^^xsd:string .
+
+ns1:esquema_de_clasificacion_analitico ns1:Relacionado_a_esquema_de_clasificacion_descriptivo ns1:Esquema_de_clasificacion_descriptivo ;
+    owl2vec:typeOf ns1:eca1,
+        ns1:eca1.1,
+        ns1:eca2,
+        ns1:eca3,
+        ns1:eca4 ;
+    rdfs:subClassOf ns1:analisis .
+
+ns1:informacion ns1:Inf_insumo_para_producir ns1:reporte ;
+    ns1:Tiene_esquema_de_clasificacion_analitica ns1:esquema_de_clasificacion_analitico ;
+    owl2vec:typeOf ns1:informacion1,
+        ns1:informacion2,
+        ns1:informacion3,
+        ns1:informacion4,
+        ns1:informacion5 ;
+    rdfs:subClassOf ns1:analisis .
+
+ns1:pregunta9 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista2 ;
+    ns1:TIene_respuesta ns1:dato24,
+        ns1:dato49,
+        ns1:dato50,
+        ns1:dato51,
+        ns1:dato9 ;
+    ns1:Valor "¿Buscan videos de conferencias de los autores o profesores en Youtube?"^^xsd:string .
+
+ns1:varón a ns1:metadatos ;
+    ns1:Valor "varón"^^xsd:string .
+
+ns1:ecd6 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Nombre "Prácticas y recursos para estudiar"^^xsd:string .
+
+ns1:tecnica ns1:Relacionado_a_tecnica_subre_sujeto_u_objeto ns1:tecnica_sobre_sujeto_u_objeto ;
+    ns1:Se_aplica_en ns1:sujeto_u_objeto ;
+    owl2vec:superClassOf ns1:analisis_documental,
+        ns1:entrevista,
+        ns1:observacion ;
+    owl2vec:typeOf ns1:entrevista1,
+        ns1:entrevista2 ;
+    rdfs:subClassOf ns1:formulacion .
+
+ns1:pregunta6 a ns1:pregunta ;
+    ns1:Es_de_entrevista ns1:entrevista2 ;
+    ns1:TIene_respuesta ns1:dato21,
+        ns1:dato44,
+        ns1:dato45,
+        ns1:dato46,
+        ns1:dato52,
+        ns1:dato53,
+        ns1:dato6 ;
+    ns1:Valor "¿Qué recursos, redes y plataformas utilizas para informarte, compartir la información y organizar las tareas en equipo?"^^xsd:string .
+
+ns1:sujeto1 a ns1:sujeto,
+        ns1:sujeto_u_objeto ;
+    ns1:Descripcion "Estudiantes de la asignatura Sociedad, Cultura y TIC, de la Carrera de Comunicación de la FIC."^^xsd:string .
+
+ns1:formulacion owl2vec:superClassOf ns1:Bibliografia,
+        ns1:estrategia_metodologica,
+        ns1:investigador,
+        ns1:marco_teorico,
+        ns1:objetivo,
+        ns1:pregunta,
+        ns1:proyecto_de_investigacion,
+        ns1:tecnica .
+
+ns1:mujer a ns1:metadatos ;
+    ns1:Valor "mujer"^^xsd:string .
+
+ns1:soporte2 a ns1:soporte ;
+    ns1:Nombre "RE343F~1"^^xsd:string ;
+    ns1:Ubicacion "https://docs.google.com/document/d/1FIxEPvTl0OQPCcpwJ_pUApwFCtCvrheG/edit"^^xsd:string .
+
+ns1:ecd1 a ns1:Esquema_de_clasificacion_descriptivo ;
+    ns1:Nombre "Autopercepción de lo que significa ser joven"^^xsd:string .
+
+ns1:soporte1 a ns1:soporte,
+        ns1:texto ;
+    ns1:Nombre "REFFDF~1"^^xsd:string ;
+    ns1:Ubicacion "https://docs.google.com/document/d/1SLPe5xiSw0OnjHtq2sSkKesxWw0HZws0/edit"^^xsd:string .
+
+ns1:pregunta ns1:Es_de_entrevista ns1:entrevista ;
+    ns1:TIene_respuesta ns1:respuesta_a_entrevista ;
+    owl2vec:typeOf ns1:pregunta1,
+        ns1:pregunta10,
+        ns1:pregunta11,
+        ns1:pregunta12,
+        ns1:pregunta13,
+        ns1:pregunta14,
+        ns1:pregunta15,
+        ns1:pregunta2,
+        ns1:pregunta3,
+        ns1:pregunta4,
+        ns1:pregunta5,
+        ns1:pregunta6,
+        ns1:pregunta7,
+        ns1:pregunta8,
+        ns1:pregunta9 ;
+    rdfs:subClassOf ns1:formulacion .
+
+ns1:entrevista1 a ns1:entrevista,
+        ns1:tecnica ;
+    ns1:Objetivo "Reconstruir la percepción que los y las estudiantes tienen acerca de su condición de ser jóvenes"^^xsd:string ;
+    ns1:Pauta "Estructurada"^^xsd:string ;
+    ns1:Relacionado_a_tecnica_subre_sujeto_u_objeto ns1:ttsuo1 ;
+    ns1:Se_aplica_en ns1:sujeto1 ;
+    ns1:Tiene_pregunta ns1:pregunta1,
+        ns1:pregunta2,
+        ns1:pregunta3,
+        ns1:pregunta4,
+        ns1:pregunta5 ;
+    ns1:Tiene_respuestas ns1:dato1,
+        ns1:dato16,
+        ns1:dato17,
+        ns1:dato18,
+        ns1:dato19,
+        ns1:dato2,
+        ns1:dato20,
+        ns1:dato3,
+        ns1:dato4,
+        ns1:dato40,
+        ns1:dato41,
+        ns1:dato42,
+        ns1:dato5 ;
+    rdfs:comment """Pagina 7
+Instrumento de indagación"""^^xsd:string .
+
+ns1:Uruguay a ns1:metadatos ;
+    ns1:Valor "Uruguay"^^xsd:string .
+
+ns1:estudiante_avanzada_de_ciencias_de_la_comunicación a ns1:metadatos ;
+    ns1:Valor "estudiante avanzada de ciencias de la comunicación"^^xsd:string .
+
+ns1:Esquema_de_clasificacion_descriptivo ns1:Posee_metadatos ns1:metadatos ;
+    ns1:categoria_superior ns1:Esquema_de_clasificacion_descriptivo ;
+    owl2vec:typeOf ns1:ecd1,
+        ns1:ecd1.1,
+        ns1:ecd1.2,
+        ns1:ecd1.3,
+        ns1:ecd1.4,
+        ns1:ecd11,
+        ns1:ecd11.1,
+        ns1:ecd11.2,
+        ns1:ecd11.2.1,
+        ns1:ecd11.2.2,
+        ns1:ecd4,
+        ns1:ecd4.1,
+        ns1:ecd4.2,
+        ns1:ecd6,
+        ns1:ecd6.1,
+        ns1:ecd6.1.1,
+        ns1:ecd9,
+        ns1:ecd9.1,
+        ns1:ecd9.2,
+        ns1:ecd9.3 ;
+    rdfs:subClassOf ns1:analisis .
+
+ns1:interpretacion_de_dato ns1:Relacionado_a_informacion ns1:informacion ;
+    ns1:Relacionado_al_registro ns1:registro ;
+    ns1:Tiene_esquema_de_clasificacion_descriptiva ns1:Esquema_de_clasificacion_descriptivo ;
+    owl2vec:typeOf ns1:idd1,
+        ns1:idd10,
+        ns1:idd11,
+        ns1:idd12,
+        ns1:idd13,
+        ns1:idd14,
+        ns1:idd15,
+        ns1:idd16,
+        ns1:idd17,
+        ns1:idd18,
+        ns1:idd19,
+        ns1:idd2,
+        ns1:idd20,
+        ns1:idd21,
+        ns1:idd22,
+        ns1:idd23,
+        ns1:idd3,
+        ns1:idd4,
+        ns1:idd5,
+        ns1:idd6,
+        ns1:idd7,
+        ns1:idd8,
+        ns1:idd9 .
+
+ns1:metadatos ns1:Met_insumo_para_producir ns1:reporte ;
+    owl2vec:typeOf ns1:E1,
+        ns1:E11,
+        ns1:E12,
+        ns1:E17,
+        ns1:E18,
+        ns1:E19,
+        ns1:E20,
+        ns1:E21,
+        ns1:E25,
+        ns1:E3,
+        ns1:E30,
+        ns1:E31,
+        ns1:E32,
+        ns1:E37,
+        ns1:E4,
+        ns1:Manual_descriptivo_Camila,
+        ns1:Manual_descriptivo_Magela,
+        ns1:Manual_descriptivo_Soledad,
+        ns1:Uruguay,
+        ns1:estudiante_avanzada_de_ciencias_de_la_comunicación,
+        ns1:mujer,
+        ns1:varón ;
+    rdfs:subClassOf ns1:analisis .
+
+ns1:entrevista2 a ns1:entrevista,
+        ns1:tecnica ;
+    ns1:Objetivo "Indagar las prácticas de estudio y de lectura de los y las estudiantes de comunicación"^^xsd:string ;
+    ns1:Pauta "Estructurada"^^xsd:string ;
+    ns1:Relacionado_a_tecnica_subre_sujeto_u_objeto ns1:ttsuo2 ;
+    ns1:Se_aplica_en ns1:sujeto1 ;
+    ns1:Tiene_pregunta ns1:pregunta10,
+        ns1:pregunta11,
+        ns1:pregunta12,
+        ns1:pregunta13,
+        ns1:pregunta14,
+        ns1:pregunta15,
+        ns1:pregunta6,
+        ns1:pregunta7,
+        ns1:pregunta8,
+        ns1:pregunta9 ;
+    ns1:Tiene_respuestas ns1:dato10,
+        ns1:dato11,
+        ns1:dato12,
+        ns1:dato13,
+        ns1:dato14,
+        ns1:dato15,
+        ns1:dato21,
+        ns1:dato22,
+        ns1:dato23,
+        ns1:dato24,
+        ns1:dato25,
+        ns1:dato26,
+        ns1:dato27,
+        ns1:dato28,
+        ns1:dato29,
+        ns1:dato30,
+        ns1:dato44,
+        ns1:dato45,
+        ns1:dato46,
+        ns1:dato47,
+        ns1:dato48,
+        ns1:dato49,
+        ns1:dato50,
+        ns1:dato51,
+        ns1:dato52,
+        ns1:dato53,
+        ns1:dato6,
+        ns1:dato7,
+        ns1:dato8,
+        ns1:dato9 .
+
+ns1:respuesta_a_entrevista ns1:Responde_a_entrevista ns1:entrevista ;
+    ns1:Responde_a_pregunta ns1:pregunta ;
+    owl2vec:superClassOf ns1:registro ;
+    owl2vec:typeOf ns1:dato1,
+        ns1:dato10,
+        ns1:dato11,
+        ns1:dato12,
+        ns1:dato13,
+        ns1:dato14,
+        ns1:dato15,
+        ns1:dato16,
+        ns1:dato17,
+        ns1:dato18,
+        ns1:dato19,
+        ns1:dato2,
+        ns1:dato20,
+        ns1:dato21,
+        ns1:dato22,
+        ns1:dato23,
+        ns1:dato24,
+        ns1:dato25,
+        ns1:dato26,
+        ns1:dato27,
+        ns1:dato28,
+        ns1:dato29,
+        ns1:dato3,
+        ns1:dato30,
+        ns1:dato4,
+        ns1:dato40,
+        ns1:dato41,
+        ns1:dato42,
+        ns1:dato44,
+        ns1:dato45,
+        ns1:dato46,
+        ns1:dato47,
+        ns1:dato48,
+        ns1:dato49,
+        ns1:dato5,
+        ns1:dato50,
+        ns1:dato51,
+        ns1:dato52,
+        ns1:dato53,
+        ns1:dato6,
+        ns1:dato7,
+        ns1:dato8,
+        ns1:dato9 ;
+    rdfs:subClassOf ns1:registro .
+
+ns1:registro ns1:Es_generado_por ns1:tecnica_sobre_sujeto_u_objeto ;
+    ns1:Se_interpreta ns1:interpretacion_de_dato ;
+    ns1:Soportado_en ns1:soporte ;
+    owl2vec:superClassOf ns1:documento_enriquecido,
+        ns1:notas_de_campo,
+        ns1:respuesta_a_entrevista ;
+    owl2vec:typeOf ns1:dato1,
+        ns1:dato10,
+        ns1:dato11,
+        ns1:dato12,
+        ns1:dato13,
+        ns1:dato14,
+        ns1:dato15,
+        ns1:dato16,
+        ns1:dato17,
+        ns1:dato18,
+        ns1:dato19,
+        ns1:dato2,
+        ns1:dato20,
+        ns1:dato21,
+        ns1:dato22,
+        ns1:dato23,
+        ns1:dato24,
+        ns1:dato25,
+        ns1:dato26,
+        ns1:dato27,
+        ns1:dato28,
+        ns1:dato29,
+        ns1:dato3,
+        ns1:dato30,
+        ns1:dato31,
+        ns1:dato32,
+        ns1:dato33,
+        ns1:dato34,
+        ns1:dato35,
+        ns1:dato36,
+        ns1:dato37,
+        ns1:dato38,
+        ns1:dato39,
+        ns1:dato4,
+        ns1:dato40,
+        ns1:dato41,
+        ns1:dato42,
+        ns1:dato44,
+        ns1:dato45,
+        ns1:dato46,
+        ns1:dato47,
+        ns1:dato48,
+        ns1:dato49,
+        ns1:dato5,
+        ns1:dato50,
+        ns1:dato51,
+        ns1:dato52,
+        ns1:dato53,
+        ns1:dato6,
+        ns1:dato7,
+        ns1:dato8,
+        ns1:dato9 ;
+    rdfs:subClassOf ns1:campo,
+        ns1:documento_enriquecido,
+        ns1:notas_de_campo,
+        ns1:respuesta_a_entrevista .
+
