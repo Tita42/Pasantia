@@ -1,0 +1,51 @@
+{
+  "os":  "macOS-15.4-arm64-arm-64bit",
+  "python":  "CPython 3.9.0",
+  "startedAt":  "2025-05-25T14:08:29.830062Z",
+  "args":  [
+    "--batch_size=8192",
+    "--emb_dim=200",
+    "--loss_type=normal",
+    "--lr=0.0001",
+    "--margin=1",
+    "--num_negs=2",
+    "--use_case=ontologia",
+    "--device",
+    "cpu",
+    "-ns"
+  ],
+  "program":  "/Users/tita/Desktop/catE/use_cases/run_cat_completion.py",
+  "codePath":  "run_cat_completion.py",
+  "email":  "martinezmaite24@gmail.com",
+  "root":  "/Users/tita/Desktop/catE/use_cases",
+  "host":  "192.168.1.58",
+  "executable":  "/Users/tita/venv_catE/bin/python",
+  "codePathLocal":  "run_cat_completion.py",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "138978758656"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "138978758656"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  10
+  },
+  "apple":  {
+    "name":  "Apple M4",
+    "ecpuCores":  6,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  16,
+    "ramTotalBytes":  "17179869184"
+  }
+}
