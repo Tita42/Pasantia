@@ -1,0 +1,1174 @@
+Qualitative Research in Psychology
+
+ISSN: 1478-0887 (Print) 1478-0895 (Online) Journal homepage: www.tandfonline.com/journals/uqrp20
+
+The pursuit of quality in grounded theory
+Kathy Charmaz & Robert Thornberg
+To cite this article: Kathy Charmaz & Robert Thornberg (2021) The pursuit of
+quality in grounded theory, Qualitative Research in Psychology, 18:3, 305-327, DOI:
+10.1080/14780887.2020.1780357
+To link to this article: https://doi.org/10.1080/14780887.2020.1780357
+
+© 2020 The Author(s). Published with
+license by Taylor & Francis Group, LLC.
+Published online: 22 Jun 2020.
+
+Submit your article to this journal
+
+Article views: 150745
+
+View related articles
+
+View Crossmark data
+
+Citing articles: 533 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=uqrp20
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+2021, VOL. 18, NO. 3, 305–327
+https://doi.org/10.1080/14780887.2020.1780357
+
+The pursuit of quality in grounded theory
+Kathy Charmaza and Robert Thornberg
+
+b
+
+a
+
+Department of Sociology, Sonoma State University, Rohnert Park, Sonoma, USA; bDepartment of
+Behavioural Sciences and Learning, Linköping University, Linköping, Sweden
+ABSTRACT
+
+KEYWORDS
+
+This article introduces grounded theory and places this method
+in its historical context when 1960s quantitative researchers
+wielded harsh criticisms of qualitative research. The originators
+of grounded theory, sociologists Glaser and Strauss, sought to
+defend the quality of qualitative research and argued that
+grounded theory increased its quality by providing a method
+of theory construction. Our major foci include: (1) introducing
+the logic of grounded theory, with emphasis on how research­
+ers can use it to construct theory, (2) detailing criteria for quality
+in the major forms of grounded theory advocated by Glaser and
+Strauss and augmented by Glaser, Strauss and Corbin and
+refined by Corbin, and Charmaz and (3) providing an analysis
+of how constructivist grounded theorists Thornberg, Halldin,
+Bolmsjö and Petersson attended to the interviewing process,
+coding, and developing their theoretical concept of double
+victimizing. Students and researchers new to the method can
+use our concluding guidelines as a checklist to assess the quality
+of their constructivist grounded theory research.
+
+Grounded theory;
+constructivist grounded
+theory; quality; qualitative
+research; credibility
+
+Introduction
+
+American sociologists Barney Glaser and Anselm Strauss’s (1967) The
+Discovery of Grounded Theory: Strategies for Qualitative Research not only
+proposed a new method of analysis, but also led the charge of defending the
+quality of qualitative research. Grounded theory is a systematic method of
+conducting research that shapes collecting data and provides explicit strategies
+for analyzing them. The defining purpose of this method is to construct
+a theory that offers an abstract understanding of one or more core concerns
+in the studied world.
+In grounded theory studies, the researcher’s analytic focus emerges during
+the research process, rather than being determined before empirical inquiry
+begins. Increasingly, grounded theorists assume that the method is a way of
+thinking about, constructing, and interacting with data throughout the
+research process (Morse et al., forthcoming). Using grounded theory now
+means more than openness to learning about the participants’ lives. It also
+CONTACT Robert Thornberg
+robert.thornberg@liu.se
+Linköping University, Linköping SE-58183, Sweden
+
+Department of Behaviorial Sciences and Learning,
+
+© 2020 The Author(s). Published with license by Taylor & Francis Group, LLC.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives
+License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in
+any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+
+306
+
+K. CHARMAZ AND R. THORNBERG
+
+means making what the researchers learn transparent by showing how the
+research has been conducted thoroughly and systematically.
+The grounded theory method offers useful strategies to develop researchers’
+theoretical analyses. This method helps them to generate new concepts in their
+discipline and the larger research literature. These concepts may have direct
+application for professional policies and practices in psychology and beyond.
+We begin by briefly explaining the logic of the method and then sketch the
+historical context of the development of grounded theory. From its beginning
+to the present, grounded theory has addressed questions about quality in
+qualitative research. Glaser and Strauss (1967) tied quality to making new
+theoretical contributions. Throughout our discussion, we detail how concerns
+about quality pervade the research process in grounded theory studies. We
+also compare notions of quality among grounded theorists with the larger
+literature and then detail development of a concept and its relation to
+a theoretical framework. We end by synthesizing our key points and offering
+a checklist and suggestions for conducting quality in constructivist grounded
+theory research, although most of the suggestions are applicable to other
+versions of grounded theory as well.
+Before outlining quality in grounded theory research, we wish to point out
+that many researchers, psychologists among them, use this method for
+a variety of worthy purposes instead of or in conjunction with theory con­
+struction. Such purposes include exploring a new area of study (Bronk 2012)
+explicating and understanding a major process (Qin and Lykes 2006), illumi­
+nating the situations of people denied a public voice (Ayón et al. 2017; Gibson
+2016; Scull, Mbonyingabo, and Kotb 2016; Tuason 2013), developing policy
+(Faija et al. 2017), and implications for professional practice (Song and de Jong
+2013; Yakushko 2010). Numerous researchers use several grounded theory
+strategies for conducting thematic analyses (cf. Braun and Clarke 2006). In this
+article, we emphasize quality in grounded theory studies that aim for theory
+construction, despite whether they also serve other goals.
+The logic of grounded theory
+
+Glaser and Strauss (1967) developed grounded theory by explaining the
+methods they used to construct their remarkable qualitative studies of death
+and dying in hospitals (Glaser & Strauss, 1965, 1968). In this methodological
+treatise, they introduced the innovative and systematic strategy of simulta­
+neous data collection and analysis. It became a hallmark of grounded theory
+and has become widely adopted throughout qualitative inquiry. Glaser and
+Strauss argued that by engaging in an iterative process of data collection and
+analysis, researchers would sequentially focus on the most significant issues in
+the field of study. Simultaneous data collection and analysis help researchers to
+steadily focus on developing concepts about the data and to gather further data
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+
+307
+
+that flesh out their nascent concepts. Glaser and Strauss opposed the separa­
+tion of data gathering and analysis that characterized ethnographic research of
+their time. Ethnographers of the 1960s commonly discovered their consider­
+able quantities of data lacked depth and richness. But by the time they made
+this unwelcome discovery, they had left the research site and often could not
+return. If, however, researchers systematically interrogate their data as they
+gather it, their early ideas can then inform subsequent data collection.
+To begin analyzing data, Glaser and Strauss advocated comparing and
+coding the data. For them, initial coding meant labeling snippets of data to
+take them apart while being attentive to the meanings and actions suggested by
+these data. We advocate line-by-line coding as a first step, because it forces the
+researcher to take a fresh look at the data, compare fragments of these data,
+and ask analytic questions about them. The grounded theory method not only
+helps researchers to synthesize data but, moreover, to move beyond descrip­
+tion through constructing new concepts that explicate what is happening.
+Line-by-line coding helps grounded theorists to understand their research
+participants’ experiences and perspectives. Gaining this understanding can
+lead to rethinking or relinquishing cherished disciplinary concepts that
+researchers might have believed would fit their data. For example, psycholo­
+gists have conducted many important studies about resilience. However, the
+usefulness of this concept may not fit the stance of desperate people who
+experience constant crises. Kapriskie Seide (in Charmaz 2020, 166) conducted
+firsthand research on the situation in Haiti during the cholera epidemic. She
+found herself face-to-face with homelessness, immense poverty, starvation,
+isolation, hopelessness, and death. Seide reported that ‘For a young woman,
+the word resilient was patronizing and seemed to normalize structural vio­
+lence as it is surprising to some that more Haitians are not ‘losing their shit’
+from being tested and challenged by their everyday lives’.
+Glaser and Strauss’s (1965, 1968) studies were based on extensive field
+research in multiple sites. Today, most grounded theory studies are based on
+interviews. By following up on codes in the early interviews, the grounded
+theorists develop more pointed questions and ask about areas that they had
+not anticipated would be important. Tacking back and forth between data and
+analysis helps to check the pertinence of their nascent ideas, raise the analytic
+level of those that hold up, and support them more fully. While grounded
+theorists are coding, they write memos about their codes and the questions
+they have about them.
+Memo writing is the intermediate step between coding and writing the first
+draft of the paper, including the provisional analysis. Early memos may
+include discussions of grounded theorists’ codes, analytic and methodological
+questions as well as comparisons between fragments of data. Other memos are
+more analytic because grounded theorists take codes apart. We suggest that
+you first define a code by its properties or characteristics. These properties are
+
+308
+
+K. CHARMAZ AND R. THORNBERG
+
+what constitute the code and differentiate it from other codes. Look for
+unstated assumptions and examine your own as well as those of your research
+participants. Record where the code takes you and how it is linked to other
+codes. Not all codes are equal. Some codes are concrete and descriptive. Others
+are more analytic and account for a wider range of data. As you proceed with
+your research, your memos become more definitive and analytic. In this way,
+you are building quality into your study.
+How much line-by-line coding should you do? After seeing how your codes
+coalesce and identifying which are the most important, you can stop line-byline coding. Define the most important codes as focused codes. These codes
+account for more data than other codes, subsume related codes, and raise the
+analytic level of your work. Then use the focused codes to examine how they
+work with large batches of data. Focused coding expedites the analytic process
+while retaining your strong foundation in the data. Focused codes help to
+generate tentative analytic categories, which you then pursue. Do these cate­
+gories hold up? Can they account for these data, or is something else going on?
+Grounded theory builds checks into the research process that contribute to
+its quality, such as engaging in focused coding. Simultaneously, using focused
+coding helps you to expedite your analysis and streamline your subsequent
+data collection to gather targeted data that answer questions in your emerging
+analysis. Hence, grounded theory gives the researcher more analytic power
+with fewer data. Nonetheless, this point does not excuse having very small
+samples (cf., Thomson 2011).
+Qualitative research allows researchers to discern explicit and implicit
+processes in their data. Grounded theory offers a useful way of studying
+processes. To make processes explicit, grounded theorists study actions as
+well as meanings and show how they are connected. For example, psycholo­
+gists Qin and Lykes (2006) provide an excellent analysis of the convergence of
+meanings and actions. They studied the situations of Chinese women graduate
+students in the United States and discovered the basic psychological process of
+gaining self-understanding through reweaving a fragmented self. These stu­
+dents often experienced a fragmented self before their arrival in the US. In
+China, their self-understanding became fragmented due to gender discrimina­
+tion, political corruption, and inability to manage the web of social relation­
+ships in which they were embedded. The students’ quest for higher education
+contradicted cultural norms for women. In the US their selves became further
+fragmented, as they experienced ‘discrimination, disrespect, loneliness, and
+self-doubt’ (p. 192). Yet many gained more complex selves as they rewove
+cross-cultural insights into their self-understandings.
+At every stage of the research process grounded theorists make comparisons
+beginning with data and ending with comparisons between their categories.1
+1
+
+For a first-hand depiction of the comparative process, see Minas, Anglin, and Ribeiro (2018).
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+
+309
+
+Subsequently, they compare their final category or categories with the existing
+literature. Because they do not know in advance where grounded theory may
+take them, they need to do a systematic search of the literature as they
+complete their study.
+Glaser and Strauss realized that the iterative process of increasing the
+analytic power of the researcher’s conceptual categories gave grounded theory
+much of its strength. They proposed a new type of sampling, ‘theoretical
+sampling’, to fill out these categories with new data. In this type of sampling,
+researchers look for data that will inform their categories. The term is confus­
+ing because it is often mistaken for representative population sampling in
+quantitative research. However, theoretical sampling has nothing to do with
+representative sampling. Glaser and Strauss are aiming for what they call
+theoretical saturation of the emerging conceptual categories. Grounded the­
+orists achieve theoretical saturation, when they seek more data while theore­
+tical sampling, but find no new properties or characteristics of their categories.
+Theoretical sampling and theoretical saturation depend upon pursuing the
+iterative process and thoroughly checking the constructed categories against
+data. If, however, researchers only ask the same questions of each participant,
+they are likely to elicit similar stories about the topic. That is data saturation,
+and it occurs with relatively few interviews but seldom contributes to the
+analytic power of the study.
+Theoretical sampling and theoretical saturation contribute to the quality of
+the study by strengthening researchers’ analysis and giving them material for
+making explicit claims about it. In short, grounded theorists are building the
+kind of ‘trustworthiness,’ of their research that counseling psychologists
+Morrow (2005) and Williams and Morrow (2009) rightly argue is imperative
+to achieve in research practice.
+Concerns about quality in the development of grounded theory
+
+At the time of Glaser and Strauss’s (1967) cutting edge statement, they were
+very much speaking to sociologists. They never dreamt that their method
+would cross many disciplinary and professional borders such as in psychology,
+nursing, medicine, education, computer science, and urban planning. Glaser
+and Strauss’s defense of the quality of qualitative research in sociology stood as
+a valiant rebuttal to quantitative sociologists. By the 1960s, qualitative research
+had come under attack by US quantitative sociologists who viewed qualitative
+inquiry as lacking objectivity, validity, reliability, and replicability (Bryant &
+Charmaz 2007; Charmaz, 1995, Charmaz 2006). Quantitative research had
+already been systematically codified and textbooks were increasingly available
+for learning how to do it. In contrast, qualitative research had largely been
+taught through an oral tradition of mentoring and immersion in the field of
+inquiry. The results were small descriptive studies. Until Glaser and Strauss’s
+
+310
+
+K. CHARMAZ AND R. THORNBERG
+
+(1967) statement, little had been written, much less codified into a systematic
+statement, about how to construct a qualitative theoretical analysis of high
+quality.
+When answering quantitative social scientists’ sharp criticisms of its quality,
+Glaser and Strauss rejected the common practice of evaluating qualitative
+research according to the tenets of the quantitative tradition. Glaser and
+Strauss rejected quantitative researchers’ criticisms of qualitative inquiry as
+being unsystematic idiosyncratic, biased, and intuitive. Instead, they argued
+that qualitative research must be evaluated on its own canons, not on those
+imposed by the dominant quantitative tradition.
+Glaser and Strauss avowed that deductive quantitative research assumed
+that researchers knew the ‘right’ questions to ask before beginning their
+studies. Such questions were typically derived from speculative theorizing far
+removed from the empirical world. Glaser and Strauss proposed that (1)
+research questions had to arise from studying empirical situations, (2) deduc­
+tive hypothesis testing undermined developing new theoretical approaches,
+and (3) thus, reduced the quality, relevance and usefulness of the research
+products.
+In short, Glaser and Strauss declared that inductive qualitative research with
+rich first-hand data could lead to theory construction and that adhering to
+canons of objectivity, validity, reliability and replicability would inhibit theo­
+rizing. Hence, they argued that immersion in the research and theoretical
+literatures before conducting research would sway researchers and subse­
+quently, preconceive their studies. For Glaser and Strauss, theorizing–and
+creating high quality research–needed to be predicated on direct knowledge
+of the studied phenomenon. Moreover, they contended that studies of direct
+experience could be conducted with rigor.
+To place Glaser and Strauss’s position in context, it helps to know more
+about what was happening in US sociology departments of the 1960s.
+Sociology and anthropology have had long histories of first-hand qualitative
+research from the beginning of their disciplines at the turn of the 20th century.
+But by the 1960s, quantitative researchers had attacked and marginalized
+qualitative inquiry in sociology by gaining control over leading departments,
+journals, research institutes, and funding agencies. They believed only a few
+talented stars could produce qualitative studies worthy of academic attention.
+Glaser and Strauss rejected this view and democratized qualitative inquiry.
+They promised that grounded theory would give ordinary researchers the tools
+to construct solid theories in their respective areas.
+Glaser and Strauss’s (1967) book inspired generations of graduate students.
+The book legitimized inductive qualitative research and made coding and
+memo-writing integral strategies of qualitative inquiry. However, few
+researchers engaged in theoretical sampling and saturation and constructed
+theory. The appearance of Strauss and Corbin (1990, 1998) immensely popular
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+
+311
+
+manuals claimed to give researchers instructions about how to do grounded
+theory. However, their books came across as rigid and prescriptive in sharp
+contrast to the open-ended, fluid approach of Strauss’s (1959) earlier work,
+and evident in the Discovery book.2 Strauss and Corbin’s manuals also
+diverged from Glaser’s (1978) elaboration of the method, to Glaser’s (1992)
+furious response and avowals to have the only ‘classic’ grounded theory
+method.
+Perhaps ironically, early grounded theory researchers and proponents (e.g.,
+Glaser 1978; Strauss and Corbin 1990, 1998) often treated the method as
+a mechanistic application of procedures to gather and analyze data. The
+residues of an epistemology of positivism are also evident in both Glaser’s
+and Strauss and Corbin’s texts because they presuppose neutral observers who
+(1) assume an external world, which can be discovered by meticulous observa­
+tion, (2) separate themselves from the research process, (3) form an objective
+view of the data, and (4) treat their representation of research participants and
+the research process as unproblematic. In addition, Glaser defends small
+samples, presumes that grounded theory can be used with any epistemology
+(a philosophical theory of the nature of knowledge and reasoned justifications
+for it) and pursues parsimonious theoretical generalizations that transcend
+time, place, individuals, and circumstances. Epistemological stances are, how­
+ever, significant because they shape how researchers gather their data and
+whether they acknowledge their influence on these data and the subsequent
+analysis.
+Psychologists Henwood and Pidgeon (2003) raised a crucial point 17 years
+ago about grounded theory that still holds today. They contended that rather
+than seeing grounded theory as a unitary method, we can view it as a useful
+nodal point around which we can debate significant issues in qualitative
+inquiry. Unlike earlier manuals describing how to do grounded theory, con­
+temporary versions of the method including Bryant (2017, 2019), Charmaz
+(2006, 2014), Corbin and Strauss (2008, 2015), and Thornberg and Charmaz
+(2014) take a flexible approach to grounded theory and adopt more recent
+epistemologies. These methodologists subscribe to acknowledging multiple
+realities, seeking diverse perspectives, and engaging in critical analysis
+throughout the research process. This approach appeals to researchers who
+(1) engage in reflexivity throughout the research process, (2) aim to make their
+standpoints, starting points, and research actions as transparent as possible,
+(3) read theoretical and substantive literatures on their topics before engaging
+in research, but do not necessarily take these literatures as true or final
+statements, and (4) assume every methodological approach, including
+grounded theory, assumes an epistemology.
+2
+
+The open-ended character of Strauss’s earlier work is more clearly represented in constructivist grounded theory
+than in Strauss and Corbin's books in the 1990 and 1998. (Charmaz 2008).
+
+312
+
+K. CHARMAZ AND R. THORNBERG
+
+Glaser and Strauss’s statement of grounded theory was revolutionary in the
+1960s. By 2007, Kenneth Gergen (in Cisneros-Puebla 2007) dismissed Glaser
+and Strauss’s (1967) grounded theory as passé because of its reliance on
+empiricism, an epistemological approach ‘holding that all knowledge of mat­
+ters of fact either arises from experience or requires experience for its valida­
+tion’ (APA Dictionary of Psychology). Gergen pointed out that all empirical
+views are interpretive, an epistemological view most 21st century grounded
+theorists share. Language and experience shape how researchers see the world.
+In contrast, Glaser (2013) still assumes that data are unproblematic and insists
+researchers must not preconceive analyzing them by invoking earlier concepts,
+perspectives, and studies.
+Qualitative research and psychology
+
+Criteria about the quality in qualitative research remain unsettled. Although
+quality is crucial in qualitative research, there is, as Corbin states, ‘little
+consensus about what constitutes an appropriate set of evaluation criteria
+for qualitative research’ (Corbin and Strauss 2015, 341). This can, at least in
+part, be explained by the multiplicity of qualitative research traditions (e.g.,
+discourse analysis, ethnography, phenomenological research, conversation
+analysis) and diversities within them (e.g., critical discourse analysis, inter­
+pretative phenomenological analysis, critical ethnography, constructivist
+grounded theory), rooted in various ontological and epistemological beliefs
+and research ideals. Psychologists have subscribed to this wide range of
+qualitative methods and contributed to their development.
+Concerns about objectivity, validity, reliability and replicability in qualita­
+tive research still pervade academic psychology. In a recent example, Anczyk
+et al. (2019) plea for replication in qualitative research. Rubin, Bell, and
+McCleland (2018) document the above concerns in their mixed methods
+study of graduate psychology programs. They found negative judgments
+about qualitative inquiry that had long been evident in the discipline. They
+reported that only 13% of the responding programs required a course in
+qualitative research. Echoing sociological criticisms of qualitative studies in
+the 1960s, Rubin et al.’s respondents stated that “qualitative research was
+either imagined to be or believed to be ‘inaccurate,’ ‘subjective,’ and ‘lacking
+rigor’ (p. 41). However, the respondents described qualitative research as
+providing the ‘best methods for feminist, community-based, and social justice
+research’ (p. 43). The critics are correct on this point. Psychologists have made
+enormous contributions in these areas, and many of them use grounded
+theory (see, for example, Ayón et al. 2017; Faija et al. 2017; Gibson, 2016;
+Lee 2018; Scull, Mbonyingabo, and Kotb 2016; Tsai, L. 2017; Tuason 2013).
+Yet critics appear to ignore other important considerations about the
+contributions of psychologists who conduct qualitative research. Qualitative
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+
+313
+
+psychologists study an amazing array of problems and are affiliated with
+a wide range of programs, including those in medicine and psychiatry, educa­
+tion, religion, ethnic and gender studies, and business, to name a few. Their
+locations and diverse publication outlets may mask both the quality of their
+research and the scope of their contributions (e.g. Bronk 2012; Mazzone et al.
+2018; Tsai, Seballos-Llena, and Castellano-Datta 2017; Wójcik 2018). Also,
+qualitative psychologists often work in specialized areas on multidisciplinary
+teams (e.g. Khankeh et al. 2015).3 Furthermore, it is not unusual for psychol­
+ogists to hold multi-disciplinary expertise, although they may not be employed
+in psychology programs.4
+As in the 1960s, neither qualitative research, in general, nor grounded
+theory, in particular, fit judgments of quality based on quantitative research.
+We agree with Tracy’s (2010) ‘big tent’ markers of quality in qualitative
+research: a worthy topic, rich rigor, sincerity, credibility, resonance, significant
+contribution, ethics, and meaningful coherence (p. 837). However, what these
+terms mean in research practice may differ among researchers. Nonetheless,
+grounded theorists can meet these markers of quality when researchers con­
+duct thorough studies. Increasingly, researchers ask for transparency and
+reflexivity as criteria of quality in qualitative research (e.g. Treharne and
+Riggs 2014).
+
+Quality criteria in various versions of grounded theory
+
+Grounded theory needs its own set of criteria for evaluating quality due to its
+unique features (cf., Berthelsen, Grimshaw-Aagaard, and Hansen 2018;
+Chiovitti and Piran 2003; Elliott and Lazenbatt 2005; Hutchison, Johnston,
+and Breckon 2011), although grounded theorists cannot escape more general
+guidelines concerning their use of data gathering methods to ensure quality in
+doing interviews, fieldwork etc. The principle of ‘garbage in, garbage out’ is
+very much applicable to grounded theory, particularly considering its empha­
+sis on data and groundedness. Criteria for evaluating quality in grounded
+theory can vary due to which version of grounded theory is of concern. In the
+original but less developed one, Glaser and Strauss (1967) focused on cred­
+ibility and applicability. They connected credibility to researchers’ confidence
+in their own knowledgeability based on carefully studying and analyzing the
+actual field, and gaining systematic knowledge of the data. Glaser and Strauss
+3
+
+3.A quick search of Elsevier publications in Science Direct on the Internet showed that over 10,000 authors or coauthors of grounded theory articles were linked to psychology departments. Elsevier represents only one major
+publishing venue.
+4
+Exemplars have made stellar contributions to grounded theory. Methodologist Uwe Flick (2014, 2019) holds
+advanced degrees in both psychology and sociology; Lillemor Hallberg (2006, Hallberg & Strandmark, 2006) served
+as the first editor of the International Journal of Qualitative Studies on Health and Well-Being and conducts research
+as an expert in nursing research and psychology, and psychiatrist Suzan Joon Song (Song and de Jong 2013) has
+special training in the psychology of trauma and in medicine.
+
+314
+
+K. CHARMAZ AND R. THORNBERG
+
+suggested a few criteria for judging credibility: (1) a detailed and vivid descrip­
+tion of data so the readers feel that they have been in the field as well, and
+literally can hear and see the participants; (2) readers’ assessments of how the
+researchers came to their conclusions (what are the data and how have they
+been gathered and analyzed?); and (3) multiple comparison groups to increase
+the scope and generality of the theory, and to correct and adjust the emerging
+theory to diverse conditions. Applicability, in turn, can be connected to
+generalizability (cf., Larsson 2009), and Glaser and Strauss (1967) proposed
+four interrelated criteria: (1) Fitness: The ‘theory must fit the substantive area
+to which it will be applied’ (p. 238), and they emphasized that the theory needs
+to fit the data under study. (2) Understanding: The theory should make sense
+and be understandable to non-researchers working or living in the substantive
+area. (3) Generality: The theory needs to be sufficiently general to increase its
+applicability – ‘categories should not be so abstract as to lose their sensitizing
+aspect, but yet must be abstract enough to make . . . theory a general guide to
+multi-conditional, ever-changing daily situations’ (p. 242). (4) Control: The
+theory should help the users to understand and analyze their social reality, to
+include enough explanatory power on what is going on in situations and how
+to bring about change in them.
+In his further development of grounded Glaser (1978, 1998) suggested four
+criteria in judging quality: (1) Workability: Does the theory work to explain
+relevant behavior in the substantive area of the study? (2) Relevance: Does it
+have relevance to the people in the substantive field? (3) Fit: Does the theory fit
+the substantive area? The theory and its categories must fit the data. (4)
+Modifiability: Is the theory readily modifiable as new data emerge? In their
+development of grounded theory, Strauss and Corbin (1990; Corbin and
+Strauss 1990; Strauss and Corbin 1998) emphasized four general criteria: (1)
+quality of the data, in other words, grounded theorists need to carefully
+address and adopt quality criteria related to methods used for data gathering
+to secure credibility and trustworthiness of data; (2) the plausibility and value
+of the theory itself; (3) adequacy of the research process (sampling procedures,
+theoretical sampling, coding, categorization, development of hypotheses or
+conceptual relations between categories, and selection of core category
+through which the theory is developed); and (4) the issue of the empirical
+grounding of the theory. A comprehensive description of checklists and guide­
+lines for evaluation of the two later criteria is offered by Strauss and Corbin
+(1990; Corbin and Strauss 1990; Strauss and Corbin 1998).
+According to Strauss and Corbin, questions to ask regarding empirical
+grounding of the study are: (1) Are concepts generated? (2) Are the concepts
+systematically related? (3) Are there many conceptual linkages, and are the
+categories well developed? Do categories have conceptual density? (4) Is
+variation built into the theory? Have the concepts been examined under
+a broad range of conditions and do they offer several dimensions? (5) Are
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+
+315
+
+the conditions under which variation can be found built into the study and
+explained? (6) Has process been considered and identified? (7) Do the theore­
+tical findings seem significant, and to what extent? (8) Does the theory stand
+the test of time and become part of the discussions and ideas exchanged
+among relevant social and professional groups? (For further reading, see
+Strauss and Corbin 1998, pp. 270–272.)
+In later editions (Corbin and Strauss 2008, 2015), Corbin also added more
+general criteria of quality in qualitative research: methodological consistency,
+clarity of the purpose, self-awareness, training in how to conduct qualitative
+research, sensitivity to participants and data, willingness to work hard, ability
+to connect with the creative self, methodological awareness, and strong desire
+to do research. Note that in the original grounded theory (Glaser and Strauss
+1967), Glaserian grounded theory (Glaser 1978, 1998) and Straussian
+grounded theory (Strauss and Corbin 1990, 1998), explanatory power (i.e.,
+the power to explain and predict) is a significant quality criterion of the
+constructed theory. These approaches of grounded theory share what
+Charmaz (2006, 2014) terms as positivist definitions of theory: theories that
+seek causes, and stress explanation, prediction, generality, and universality.
+From a constructivist view of grounded theory, Charmaz (2006, 2014)
+contrasts such definitions of theory with interpretive definitions of theory, in
+which theory ‘emphasizes interpretation and gives abstract understanding
+greater priority than explanation’ (Charmaz 2014, 230). Such theories aim to
+understand meanings and actions and how people construct them, and they
+‘bring in the subjectivity of the actor and may recognize the subjectivity of the
+researcher’ (p. 231). They are situated in their social, historical, local, and
+interactional contexts. Thus, different epistemologies, ideals, aims etc. between
+different versions of grounded theory have to be considered when evaluating
+quality and discussing quality criteria for grounded theory (for overviews of
+similarities and differences between Glaserian, Straussian and constructivist
+grounded theory approaches, see Berthelsen, Grimshaw-Aagaard, and Hansen
+2018; Thornberg 2017; for further discussions about the link between episte­
+mology and quality criteria, see for example; Healy and Perry 2000; Lincoln,
+Lynham, and Guba 2018; Lützhöft, Nyce, and Petersen 2010; SantiagoDeleofosse et al. 2015).
+Within a constructivist grounded theory, Charmaz (2006, 2014) proposes
+four main criteria for grounded theory studies: credibility, originality, reso­
+nance, and usefulness. Credibility begins with having sufficient relevant data
+for asking incisive questions about the data, making systematic comparisons
+throughout the research process, and developing a thorough analysis. The
+more controversial the topic and/or analysis is, the more data the researcher
+needs to persuade skeptical audiences.
+Credibility also involves the researcher’s views and actions. Constructivist
+grounded theory requires strong reflexivity throughout the research process.
+
+316
+
+K. CHARMAZ AND R. THORNBERG
+
+This means researchers must explicate their taken-for-granted assumptions,
+which requires gaining ‘methodological self-consciousness’ (Charmaz 2017) of
+how hidden beliefs can enter the research process. During her fieldwork in
+Brazil, Elizabeth Hordge-Freeman (in Charmaz 2020, pp. 168–169) acciden­
+tally discovered the plight of black adopted daughters, filhas de criação, in
+white families. Hordge-Freeman writes:
+When I discovered that one woman was sleeping on the floor in their family’s home and
+several others had been working for no pay in adoptive families for over 40 years, I was
+overwhelmed with a sense of anger over this injustice. As a critical researcher, my initial
+impulse was a desire to mete out justice by exposing these ‘monstrous’ families; however,
+very early on the sensibilities of constructivist grounded theory with its emphasis on
+scrutinizing our interpretations of data and engaging in sustained reflexivity persuaded
+me to analyze the data in more nuanced ways and to even interrogate my affective
+responses. By doing so, I realized that my quest to ‘right’ this injustice and free the
+interviewees sounded eeringly similar to the savior complex for which I had critiqued
+white transnational researchers. Ultimately, using constructivist grounded theory, I redirected my questions to be able to collect data that provided me a greater understanding
+of how structural and affective constraints shape filhas de criação lives and used reflex­
+ivity to ensure that my interviewees’ interpretations were taken seriously.
+
+Hordge-Freeman’s statement represents the type of strong reflexivity most
+advocated in constructivist grounded theory. The strong reflexivity under­
+girding methodological self-consciousness (Charmaz 2017) means more than
+examining the researcher's methodological decisions. It means openness to
+scrutinizing who the researcher is.
+Originality can take varied forms such as offering new insights, providing
+a fresh conceptualization of a recognized problem, and establishing the sig­
+nificance of the analysis. Resonance demonstrates that the researchers have
+constructed concepts that not only represent their research participants’
+experience, but also provide insight to others. To gain resonance, researchers
+must fit their data-gathering strategies to illuminate their participants’ experi­
+ence. Once Jennifer Lois (2010) realized her questions of homeschooling
+mothers focused on quantity of time instead of quality, she gained resonance
+by hearing their stories from a new standpoint and revising her questions. Her
+subsequent codes: ‘Sequencing: eliciting nostalgia and anticipating regret,’ (p.
+434) and ‘Savoring: staying present and creating quality time’ (p. 437) not only
+led her to understand these mothers’ actions but also to construct the concept
+of temporal emotions. She reveals how certain present feelings like regret or
+hope can only be felt by crossing timeframes from the present to the past or
+future. Lois theorizes that how people handle temporal emotions influences
+their relative continuity of self over time.
+Usefulness includes clarifying research participants’ understanding of their
+everyday lives, forming a foundation for policy and practice applications,
+contributing to creating new lines of research, as well as revealing pervasive
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+
+317
+
+processes and practices. Gregory Hadley (in Charmaz 2020, 168) describes the
+usefulness of Glaser and Strauss’s analysis of death and dying in hospitals.
+Glaser’s work with Strauss in his book, “An Awareness of Dying”, for example, unlocked
+much of the meaning of what was “going on” in a Japanese hospital during the time
+when my father-in-law was on the trajectory of terminal cancer. That this grounded
+theory could have salience a half century later in a culture thousands of miles away is
+a testament to the genius behind what Glaser and Strauss did using Classical Grounded
+Theory.
+
+In this case, Glaser and Strauss’s extensive research shows how they
+achieved a useful level of generality. Using constructivist grounded theory,
+Snow and Moss (2014) delineate the conditions, including those shaping
+behavior and emotions, in which seemingly spontaneous collective action
+arises. Sensitivity to these conditions can assist social movement organizers
+in mobilizing crowds.
+
+Double victimizing: an example of developing a new concept with
+grounded theory
+
+In their constructivist grounded theory study, Thornberg et al. (2013) exam­
+ined how individuals, who had been victims of school bullying, perceived their
+bullying experiences, and how these had affected them. The project began with
+distributing 523 open-ended questionnaires to students in three secondary
+schools and two universities in Sweden. The questionnaire asked about their
+past experiences with bullying and their willingness to be interviewed about it.
+Of 511 responses, 168 students reported having been bullied in the past and 36
+volunteered to be interviewed. The researchers interviewed the 21 students
+who had been bullied for more than one year. Halldin, Bolmsjö and Petersson,
+who conducted all the interviews, were instructed and trained in qualitative
+interviewing. Quality criteria from the literature guided their interviewing,
+such as establishing a comfortable, private, and quiet interview setting build­
+ing rapport and emphasizing with the interviewee; taking the role of an
+interested learner; active listening; using open-ended questions and avoiding
+leading questions; probing; and adopting a non-judgmental approach (e.g.,
+King & Horrocks, 2010; Kvale & Brinkmann, 2009; Seidman, 2006).
+In constructivist grounded theory (Charmaz 2014), interviewing is not
+considered as efforts to mirror reality but as emergent interactions through
+a mutual exploration of the interviewee’s experiences and perspectives.
+Therefore, the interviewer’s approach and way of asking questions, listening
+and following up what the interviewee is telling are crucial in the coconstruction and quality of data. Such an approach, based on the qualitative
+interview literature, helped Thornberg et al. (2013) to gather vivid, rich, and
+comprehensive data. In accordance with grounded theory, they moved back
+
+318
+
+K. CHARMAZ AND R. THORNBERG
+
+and forth between gathering and analyzing data (iterative process). This
+approach has four advantages. It prevented them from (1) gathering data in
+a superficial and random way; (2) feeling overwhelmed due to a huge amount
+of unanalyzed data; (3) being unfocused for lengthy periods; and (4) uncriti­
+cally adopting the participants’ view or stock disciplinary categories.
+Thornberg et al. (2013) constructed codes that fit the data by engaging in
+initial coding, in which they compared data with data, data with codes, and
+codes with codes, and stayed close to and remained open to exploring what
+they interpreted was happening in the data. The provisional, initial codes were
+carefully compared with each other and with data, further elaborated and
+grouped together based on similarities and differences, leading to fewer but
+more focused and comprehensive codes. As a result of the iterative process,
+coding and constant comparison, their constructed focused codes fit tightly
+with their data. For example, the focused code ‘self-inhibiting’ had its roots in
+initial codes like ‘trying to not stand out’, ‘becoming passive out of social fear’,
+‘keeping oneself down’, ‘believing social invisibility prevents bullying’, ‘inhi­
+biting the social presence of self’, and ‘becoming silent’. Another focused code,
+‘self-doubting’, had its roots in initial codes like ‘becoming insecure’, ‘feeling
+self-worthlessness’, ‘loss of self-confidence’, and ‘getting bad self-confidence
+from being bullied’, as indicated in Tables 1 and 2.
+Thornberg and colleagues’ comparative approach to data collection and
+analysis (2013) during their focused coding included theoretical sampling as
+a prominent part of the iterative process, which guided their later interviews
+and helped them to fill out emerging categories. As noted by Charmaz (2014),
+their focused codes provided the makings of a frame for the later analysis.
+‘Rather than using these focused codes as the final frame, however, Thornberg
+et al. (2013) developed an analysis of processes involved in becoming a victim
+of school bullying and in extricating self from it’ (Charmaz 2014, 141).
+Grounded theory methods of focused coding, theoretical coding, constant
+comparison, memo-writing and theoretical sampling guided Thornberg et al.
+(2013) to merge focused codes such as ‘self-inhibition’, ‘self-isolation’, and
+‘turning off emotions’ into an even more comprehensive focused code devel­
+oped into a category that they labeled ‘self-protecting’, in which the former
+focused codes that constituted this category were included as subcategories
+representing different self-protecting strategies. Other groups of focused codes
+were further merged into other more comprehensive categories such as ‘a
+sense of not fitting in’ and ‘self-blaming’. The interplay between coconstructing rich data, constant comparison, focused coding, theoretical cod­
+ing, memo-writing and theoretical sampling was crucial in order to develop
+a set of conceptual categories anchored in the data.
+This iterative process helped Thornberg et al. (2013) to construct a major
+category – what Glaser (1998) and Corbin and Strauss (2015) would refer to as
+the ‘core concept’ of the study – namely ‘double victimizing’. This major
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+
+319
+
+Table 1. Initial coding.
+Initial Coding
+
+Interview Data
+Interviewer: How did the bullying affect you during this
+period?
+Becoming insecure;
+Eric: I started to feel very insecure. In other words, I started to
+Self-doubting; Loss of self-confidence; Thinking
+doubt myself more and more. I lost my self-confidence.
+bullying depends on wrongness with self;
+I thought there has to be something wrong with me,
+Believing bullies’ negative image of you;
+because otherwise they wouldn’t have picked me as
+Getting bad self-confidence from being bullied;
+a victim. I believed all the stupid things they said about
+Becoming passive out of social fear;
+me. So, I really got very bad self-confidence from all the
+bullying. I really didn’t dare to do things I wanted to do
+when other people were nearby.
+Interviewer: The bullying gave you bad self-confidence?
+Believing of the wrongness with self as a result of Eric: Yes, and it made me believe there was something wrong
+being bullied; Feeling self-worthlessness; Being
+with me, that I was stupid. I felt worthless, that no one
+globally disliked;
+would like to be with me.
+Interviewer: You said before that you thought they bullied
+you because there was something wrong with you. Can
+you tell me more about that?
+Being bullied because of being different;
+Eric: Because I was a different or a bit odd, I wasn’t like them.
+The constant message of being nerdish;
+Interviewer: You became bullied because you were different?
+A sense of not fitting in as a result of being
+Eric: Yeah, that was what I was told all the time, that I was
+bullied; Inferring social deviance of self from
+a nerd, I wore ugly clothes and stuff like that. But it was
+the experiences of peer victimization;
+only when the bullying started that I began to feel
+A lingering sense of being different;
+different, that I didn’t fit in. I didn’t think like that before.
+But when they started to tease me, push me around, and
+when I was frozen out all the time, I began to
+understand that I was different. I can still remember that
+feeling.
+Interviewer: What did you do when you got bullied at school?
+Avoiding bullying;
+Eric: I tried to avoid it.
+Interviewer: How?
+Inhibiting the social presence of self; Believing
+Eric: For example, by not putting my hand up during the
+social invisibility prevents bullying; Inaction
+lessons, being quiet and not standing out. I thought if
+protects self from embarrassment and teasing
+I didn’t stand out, if they wouldn’t notice me, then they
+wouldn’t bully me. If I didn’t say or do things when other
+people were around, nothing embarrassing would
+happen, no one would tease me.
+Interviewer: What do you mean?
+Standing out leads to more bullying;
+Eric: Well, if I said something, if I tried to take some space,
+Becoming silent;
+then they would just say, ‘We have to put him down! We
+Avoiding attention;
+have to bully him even more!’ So, the best thing was to
+be quiet and not be noticed.
+
+category refers to an interplay and cycling process between external victimiz­
+ing (i.e., a social process of repeated harmful acts directed at the victims that
+confirmed their victim role among the peers) and internal victimizing (i.e.,
+victims incorporated the victim-image produced by external victimizing at the
+same time as they tried to develop strategies in order to protect themselves).
+Like the term core concept (Corbin and Strauss 2015; Glaser 1998), ‘double
+victimizing’ was indeed the most significant and frequent code, and was
+related to as many other codes as possible and accounted for more data than
+other categories.
+A grounded theory of this double victimizing was finally constructed in
+which the other categories were parts of the double victimizing or in other
+
+320
+
+K. CHARMAZ AND R. THORNBERG
+
+Table 2. Focused coding.
+Focused Coding
+
+Self-inhibiting
+
+Self-doubting
+
+Interview Data
+Eric: For example, by not putting my hand up during the lessons, being quiet and not standing
+out. I thought if I didn’t stand out, if they wouldn’t notice me, then they wouldn’t bully me.
+If I didn’t say or do things when other people were around, nothing embarrassing would
+happen, no one would tease me.
+Interviewer: What do you mean?
+Eric: Well, if I said something, if I tried to take some space, then they would just say, ‘We have to
+put him down! We have to bully him even more!’ So, the best thing was to be quiet and not
+be noticed.
+Ann: I felt that there had to be something very wrong with me because everyone picked on me.
+I felt that I was worthless. I felt that I really must be a boring–, a very boring person because
+everyone avoided me and because they teased me and because of all things they did to me.
+I never thought that I didn’t want to live anymore. I didn’t think that way. I don’t think I did.
+At least I can’t recall I did. I just felt that I must be messed up in my head, and that I was
+much more inferior to the others.
+
+These tables first appeared in Thornberg and Charmaz (2014).
+
+ways related to it. For instance, whereas external victimizing consists of the
+social processes of stigmatizing by being labelled as different and social
+excluding, internal victimizing includes a sense of not fitting in, distrusting
+others, self-protecting, self-doubting, self-blaming, and resignation. Initial
+attacks antedated double victimizing, and when double victimizing ended in
+terms of bullying exit, after-effects of bullying included a lingering internal
+victimizing. In this study, theoretical sampling was necessary to reach theore­
+tical saturation in terms of having constructed a grounded theory with theo­
+retical completeness (Charmaz 2014; Glaser, 2001).
+The carefully conducted interviews and the systematic use of grounded
+theory methods made sure that the final grounded theory of double victimiz­
+ing in school bullying reached empirical grounding (Strauss and Corbin 1998)
+as the theory and its concepts clearly fitted with the data (Glaser 1998), and
+demonstrated credibility (Charmaz 2014; Strauss and Corbin 1998) and trust­
+worthiness (Strauss and Corbin 1998). In addition, the empirical grounding of
+the theory led to: (a) workability (Glaser 1998) as the developed middle-range
+theory contributes to explain the link between bullying victimization and
+mental health problems in the literature (e.g., Klomek, Sourander, and
+Elonheimo 2015) from the voice and perspectives of the participants; (b)
+abstract understanding (Charmaz, 2017) as it contributes to increase our
+understanding of meanings and actions and how victims construct them;
+and (c) relevance (Glaser 1998) and resonance (Charmaz 2014) as participants
+in the study and other victims of school bullying could recognize most or all
+processes included in the grounded theory of double victimizing. Due to the
+open and exploratory approach, the developed grounded theory showed
+originality (Charmaz 2014) as it contributes to the literature by offering new
+insights and proving a fresh conceptualization of victims’ experiences and path
+through school bullying and beyond. As a result of empirical grounding, fit,
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+
+321
+
+credibility, relevance, workability and resonance, Thornberg et al. (2013)
+grounded theory of double victimizing also demonstrated usefulness
+(Charmaz 2014) as it contributes to creating new lines of research, clarifies
+bullying victim experiences, and reveals that an inner victimizing seems to
+continue several years after bullying has ended, which has anti-bullying
+implications. In accordance with the pragmatistic view of knowledge and
+knowing, underlying the constructivist grounded theory approach (Charmaz
+2006, 2014; Thornberg 2012), Thornberg et al. (2013) grounded theory of
+double victimizing is considered to be situated, fallible and provisional, and
+therefore embraces modifiability (Glaser 1998). New data may revise and
+elaborate the theory further.
+Quality in constructivist grounded theory: checklists and guidelines
+
+We conclude by offering guidelines that graduate and postgraduate students
+and beginners in constructivist grounded theory can use as a checklist while
+conducting their work. Use the list as a resource, not as a substitute for
+rigorous research. As Barbour (2001) observes, using checklists risks becoming
+a methodological crutch that avoids deep engagement with the method. We
+strongly advocate that researchers gain a deep engagement with their method
+and data.
+Although we can discern similarities and differences between various ver­
+sions of grounded theory, we offer a general set of guidelines. At the same time,
+we recommend you learn more about issues of rigor, credibility and quality
+emphasized in the methodological discourse of the specific version of
+grounded theory that you choose to use. So just take these points as flexible
+guidelines to consider when conducting qualitative inquiry in general or
+constructing a grounded theory study in particular.
+(1) Strive to achieve methodological self-consciousness (Charmaz 2017).
+Why have you chosen the specific topic, methodology and methods,
+and how do these fit with who you are and your research objectives
+and questions? What version of grounded theory have you adopted
+and why? What are the ontological and epistemological assumptions,
+and what do these mean for the research process, researcher position,
+findings, and quality issues, including transferability?
+(2) Learn everything you can about the type of qualitative inquiry you
+adopt, whether it’s narrative inquiry, discourse analysis, or a version of
+grounded theory. If possible, work with a mentor who is knowledge­
+able about your approach.
+(3) Take an open, non-committal, critical, analytic view of the existing
+literature in the field. In contrast to Glaserian grounded theory but in
+line with Straussian and constructivist grounded theory, we
+
+322
+
+K. CHARMAZ AND R. THORNBERG
+
+recommend that you review the literature to establish a defensible
+rationale for the study, to avoid re-inventing the wheel, and to increase
+theoretical sensitivity. Treat the literature as provisional and fallible,
+not as the Truth (for further reading, see Thornberg 2012; Thornberg
+and Dunne 2019).
+(4) Gather rich data. For psychologists, rich data usually means learning
+and collecting the stories of people who have had or are having
+a specific experience. Rich data means an openness to the empirical
+world and a willingness to try to understand the experiences of people
+who may be far different from you.
+(5) Be transparent. Describe how you conducted your study, obtained
+your sample and state how and why you have included the partici­
+pants, and how you have used grounded theory and data collection
+methods. Include justifications of your choices.
+(6) Go back and forth between data and your developing analysis to focus
+your subsequent data collection and to fill out your emerging analytic
+categories.
+(7) Tolerate ambiguity while you struggle to gain intimate familiarity with
+the empirical world and to create an analytic handle to understand it.
+(8) As you proceed, ask progressively focused questions about the data
+that help you develop your emerging analysis.
+(9) Play with your data and your ideas about it. Look for all possible
+theoretical explanations of the data and check them.
+(10) Collect sufficient data to (a) make useful comparisons, (b) create
+robust analytic categories, and (c) convince readers of the significance
+of your categories.
+(11) Ask questions about your categories: What are their properties? In
+which ways do they subsume minor categories? How are your main
+categories connected? How do they make a theoretical statement?
+What is the significance of this statement?
+(12) Always treat your codes, categories and theoretical outlines as provi­
+sional and open for revision and even rejection in the light of new data
+and further analysis.
+(13) After you have completed your analysis, compare it with relevant
+material from the literature, which may well include case studies and
+perspectives that you did not address during your earlier review. At
+this time, your review will be focused on the ideas that you have
+developed. This review gives you the opportunity to show how your
+analysis fits, extends, or challenges leading ideas in your field.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+
+323
+
+Notes on contributors
+Kathy Charmaz is professor emerita of sociology at Sonoma State University. She has written,
+co-authored, or co-edited several books, including two award-winning works: Good Days, Bad
+Days: The Self in Illness and Time and Constructing Grounded Theory. Charmaz has recently
+published The Social Self and Everyday Life: Understanding the World through Symbolic
+Interactionism with co-authors Scott R. Harris and Leslie Irvine and is a co-editor of
+the Handbook of Current Developments in Grounded Theory with Antony Bryant. She has
+also written or co-authored numerous articles and chapters about qualitative research.
+Robert Thornberg is professor of education at Linköping University. His current research is on
+school bullying, especially with a focus on social and moral processes involved in bullying,
+bystander rationales, reactions and actions, and students' perspectives, experiences and expla­
+nations. He is also engaged in research on student teachers' experiences of distressed situation
+during teacher training, and research on values education in everyday school life. Thornberg
+has published numerous empirical articles in a range of peer-reviewed journals and written or
+co-authored chapters on grounded theory in various method books.
+
+ORCID
+Robert Thornberg
+
+http://orcid.org/0000-0001-9233-3862
+
+References
+Anczyk, A., H. Grzymała-Moszczyńska, A. Krzysztof-Świderska, and J. Prusak. 2019. The
+replication crisis and qualitative research in the psychology of religion. The International
+Journal for the Psychology of Religion 29:278–91. doi:10.1080/10508619.2019.1687197.
+Ayón, C., J. Messing, M. Gurrola, and D. Valencia-Garcia. 2017. The oppression of Latina
+mothers: Experiences of exploitation, violence, marginalization, cultural imperialism, and
+powerlessness in their everyday lives. Violence against Women 24 (8):879–900. doi:10.1177/
+1077801217724451.
+Barbour, R. S. 2001. Checklists for improving rigour in qualitative research: A case of the tail
+wagging the dog? British Medical Journal 322:1115–17. doi:10.1136/bmj.322.7294.1115.
+Berthelsen, C. B., S. Grimshaw-Aagaard, and C. Hansen. 2018. Developing a guideline for
+reporting and evaluating grounded theory research studies (GUREGT). International
+Journal of Health Sciences 6 (2):64–76.
+Braun, V., and V. Clarke. 2006. Using thematic analysis in psychology. Qualitative Research in
+Psychology 3 (2):77–101. doi:10.1191/1478088706qp063oa.
+Bronk, K. 2012. A grounded theory of the development of noble youth purpose. Journal of
+Adolescent Research 27 (1):78–109. doi: 10.1177/0743558411412958.
+Bryant, A., and K. Charmaz 2007. Grounded theory in historical perspective: An epistemolo­
+gical account. In The Sage handbook of grounded theory, A Bryant and K Charmaz (Eds.), pp.
+31–57. London: Sage.
+Bryant, A. 2017. Grounded theory and grounded theorizing: Pragmatism in research practice.
+New York, NY: Oxford University Press.
+Bryant, A. 2019. The varieties of grounded theory. London: Sage.
+Charmaz, K. 1995. Between positivism and postmodernism: implications for methods. In
+Studies in symbolic interaction, vol. 17, N. K. Denzin (Ed.), pp. 43–72. Greenwich, CT: JAI
+Press.
+
+324
+
+K. CHARMAZ AND R. THORNBERG
+
+Charmaz, K. 2006. Constructing grounded theory: A practical guide through qualitative analysis.
+London: Sage.
+Charmaz, K. 2008. The legacy of Anselm Strauss for constructivist grounded theory. In Studies
+in symbolic interaction, ed. N. K. Denzin., vol. 32, 127–41. Bingley, UK: Emerald Publishing
+Group, Ltd.
+Charmaz, K. 2014. Constructing grounded theory. 2nd ed. Thousand Oaks, CA: Sage.
+Charmaz, K. 2017. The power of constructivist grounded theory for critical inquiry. Qualitative
+Inquiry 23 (1):34–45. doi:10.1177/1077800416657105.
+Charmaz, K. 2020. ”With constructivist grounded theory you can’t hide”: Social justice
+research and critical inquiry in the public sphere. Qualitative Inquiry 26 (2):165–76.
+doi:10.1177/1077800419879081.
+Chiovitti, R. F., and N. Piran. 2003. Rigour and grounded theory research. Journal of Advanced
+Nursing 44 (4):427–35. doi:10.1046/j.0309-2402.2003.02822.x.
+Cisneros-Puebla, C. A. 2007. The deconstructive and reconstructive faces of social construc­
+tion: Kenneth Gergen in conversation with César A. Cisneros-Puebla. With an introduction
+by Robert B. Faux [83 paragraphs]. Forum Qualitative Sozialforschung/Forum: Qualitative
+Social Research 9 (1):Art. 20. http://nbn-resolving.de/urn:nbn:de:0114-fqs0801204 .
+Corbin, J., and A. Strauss. 1990. Grounded theory research: Procedures, canons, and evaluative
+criteria. Qualitative Sociology 13 (1):3–21. doi:10.1007/BF00988593.
+Corbin, J., and A. Strauss. 2008. Basics of qualitative research. 3rd ed. Thousand Oaks, CA:
+Sage.
+Corbin, J., and A. Strauss. 2015. Basics of qualitative research. 4th ed. Thousand Oaks, CA: Sage.
+Elliott, N., and A. Lazenbatt. 2005. How to recognize a “quality” grounded theory research
+study. Australian Journal of Advanced Nursing 22 (3):48–52.
+Faija, C. L., S. Tierney, P. A. Gooding, S. Peters, and J. R. Fox. 2017. The role of pride in women
+with anorexia nervosa: A grounded theory study. Psychology and Psychotherapy: Theory,
+Research and Practice 90 (4):567–85. doi:10.1111/papt.12125.
+Flick, U., ed.. 2014. The SAGE handbook of qualitative analysis. London: Sage.
+Flick, U. 2019. Grounded theory. London: Sage.
+Gibson, P. R. 2016. Women growing older with environmental sensitivities: A grounded theory
+model of meeting one’s needs. Health Care for Women International 37 (12):1289–303.
+doi:10.1080/07399332.2016.1191495.
+Glaser, B. G. 1978. Theoretical sensitivity. Mill Valley, CA: Sociology Press.
+Glaser, B. G. 1992. Basics of grounded theory analysis. Mill Valley, CA: Sociology Press.
+Glaser, B. G. 1998. Doing grounded theory: Issues and discussions. Mill Valley, CA: Sociology
+Press.
+Glaser, B. G. 2001. The grounded theory perspective: Conceptualization contrasted with
+description. Mill Valley, CA: Sociology Press.
+Glaser, B. G. 2013. No preconceptions: The grounded theory dictum. Mill Valley, CA: Sociology
+Press.
+Glaser, B. G., and A. L. Strauss. 1967. The discovery of grounded theory: Strategies for qualitative
+research. New York, NY: Aldine de Gruyter.
+Glaser, B. G., and Strauss, A. L. 1965. Awareness of dying. Chicago: Aldine.
+Glaser, B. G., and Strauss, A. L. 1968. Time for dying. Chicago: Aldine.
+Hallberg, L. R. M. 2006. The “core category” of grounded theory: Making constant compar­
+isons. International Journal of Qualitative Studies on Health and Well-being 1 (3):141–48.
+doi:10.1080/17482620600858399.
+Hallberg, L. R. M., and M. K. Strandmark. 2006. Health consequences of workplace bullying:
+Experiences from the perspective of employees in the public service sector. International
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+
+325
+
+Journal of Qualitative Studies on Health and Well-being 1 (2):109–19. doi:10.1080/
+17482620600555664.
+Healy, M., and C. Perry. 2000. Comprehensive criteria to judge validity and reliability of
+qualitative research within the realism paradigm. Qualitative Market Research 3
+(3):118–26. doi:10.1108/13522750010333861.
+Henwood, K., and N. Pidgeon. 2003. Grounded theory in psychological research. In Qualitative
+research in psychology: Expanding perspectives in methodology and design, ed. P. M. Camic,
+J. E. Rhodes, and L. Yardley, 131–55. Washington: American Psychological Association.
+Hutchison, A. J., L. Johnston, and J. Breckon. 2011. Qualitative research in psychology,
+Grounded theory-based research within exercise psychology: A critical review. Qualitative
+Research in Psychology 11 (3):245–72.
+Khankeh, H. R., S. A. Hosseini, L. Rezaie, J. Shakeri, and D. C. Schwebel. 2015. A model to
+explain suicide by self-immolation among Iranian women. Burns 41, (7):1562–71.
+doi:10.1016/j.burns.2015.03.015.
+Klomek, A. B., A. Sourander, and H. Elonheimo. 2015. Bullying by peers in childhood and
+effects on psychopathology, suicidality, and criminality in adulthood. Lancet Psychiatry
+2:930–41. doi:10.1016/S2215-0366(15)00223-0.
+King, N. and Horrocks, C. 2010. Interviews in qualitative research. Sage, London.
+Kvale, S. and Brinkmann, S. 2009. Interviews: learning the craft of qualitative research inter­
+viewing. Sage, London.
+Larsson, S. 2009. A pluralist view of generalization in qualitative research. International Journal
+of Research & Method in Education 32 (1):25–38. doi:10.1080/17437270902759931.
+Lee, S. 2018. Understanding the dynamics among acculturative stress, coping, and growth:
+A grounded theory of the Korean immigrant adolescent experience. Children and Youth
+Services Review 94:105–14. doi:10.1016/j.childyouth.2018.09.030.
+Lincoln, Y. S., S. A. Lynham, and E. G. Guba. 2018. Paradigmatic controversies, contradictions,
+and emerging confluences, revisited. In The SAGE handbook of qualitative research, ed.
+N. K. Denzin and Y. S. Lincoln, 108–50. 5th ed. Thousand Oaks, CA: Sage.
+Lois, J. 2010. The temporal emotion work of motherhood: Homeschoolers' strategies for
+managing time shortage. Gender & Society 24 (4): 421–446. doi: 10.1177/0891243210377762.
+Lützhöft, M., J. M. Nyce, and S. Petersen. 2010. ’Epistemology in ethnography: Assessing the
+quality of knowledge in human factors research. Theoretical Issues in Ergonomic Science 11
+(6):532–45. doi:10.1080/14639220903247777.
+Mazzone, A., R. Thornberg, S. Stefanelli, C. Cadei, and S. Caravita. 2018. ”Judging by the
+cover”: A grounded theory of same country and immigrant bullying. Child and Youth
+Services Review 91:403–12. doi:10.1016/j.childyouth.2018.06.029.
+Minas, M., J. Anglin, and M. K. Ribeiro. 2018. Building reciprocity: The dialectic processes of
+creating a grounded theory and the emergence of a theoretical framework. Qualitative
+Research in Psychology 15 (1):41–67. doi:10.1080/14780887.2017.1392669.
+Morrow, S. L. 2005. Quality and trustworthiness in qualitative research in counseling
+psychology. Journal of Counseling Psychology 52 (2):250–60. doi:10.1037/00220167.52.2.250.
+Qin, D., and M. B. Lykes. 2006. Reweaving a fragmented self: A grounded theory of
+self-understanding among Chinese women students in the United States of America.
+International Journal of Qualitative Studies in Education 19 (2):177–200. doi:10.1080/
+09518390600576087.
+Rubin, J. D., S. Bell, and S. I. McCleland. 2018. Graduate education in psychology: Current
+trends and recommendations for the future. Qualitative Research in Psychology 15 (1):29–50.
+doi:10.1080/14780887.2017.1392668.
+
+326
+
+K. CHARMAZ AND R. THORNBERG
+
+Santiago-Deleofosse, M., C. Bruchez, A. Gavin, S. L. Stephen, and P. Roux. 2015. Complexity of
+the paradigms present in quality criteria of qualitative research grids. SAGE Open 5 (5). doi:
+10.1177/2158244015621350.
+Scull, N., C. Mbonyingabo, and M. Kotb. 2016. Transforming ordinary people into killers:
+A psychosocial examination of Hutu participation in the Tutsi genocide. Peace and Conflict:
+Journal of Peace Psychology 22 (4):334–44. doi:10.1037/pac0000158.
+Seidman, I. 2006. Interviewing as qualitative research: a guide for researchers in education and
+social sciences (3rd ed.), Teachers College, New York.
+Snow, D. A., and D. M. Moss. 2014. Protest on the fly: Toward a theory of spontaneity in the
+dynamics of protest and social movements. American Sociological Review 79 (6):1122–43.
+doi:10.1177/0003122414554081.
+Song, S. J., and J. de Jong. 2013. Silence and disclosure: Intergenerational indero between
+Burundian former child soldiers and their children. International Journal for the
+Advancement of Counseling 36:84–95. doi:10.1007/s10447-013-9192-x.
+Strauss, A. 1959. Mirrors and masks: The search for identity. Mill Valley, CA: Sociology Press.
+Strauss, A., and J. Corbin. 1990. Basics of qualitative research: Grounded theory procedures and
+techniques. Newbury Park, CA: Sage.
+Strauss, A., and J. Corbin. 1998. Basics of qualitative research: Grounded theory procedures and
+techniques. 2nd ed. Thousand Oaks, CA: Sage.
+Thomson, S. B. 2011. Sample size and grounded theory. JOAAG 5 (1):45–52.
+Thornberg, R. 2012. Informed grounded theory. Scandinavian Journal of Educational Research
+56:243–59. doi:10.1080/00313831.2011.581686.
+Thornberg, R., and K. Charmaz. 2014. Grounded theory and theoretical coding. In The SAGE
+handbook of qualitative analysis, ed. U. Flick, 153–69. London: Sage.
+Thornberg, R. 2017. Grounded theory. In The BERA/SAGE handbook of educational research,
+ed. D. Wyse, N. Selwyn, E. Smith, and L. E. Suter., vol. 1, 355–75. London: Sage.
+Thornberg, R., and C. Dunne. 2019. Literature review in grounded theory. In The SAGE
+handbook of current developments in grounded theory, ed. A. Bryant and K. Charmaz,
+206–21. 2nd ed. London: Sage.
+Thornberg, R., K. Halldin, N. Bolmsjö, and A. Petersson. 2013. Victimising of school bullying:
+A grounded theory. Research Papers in Education 28 (3):309–29. doi:10.1080/
+02671522.2011.641999.
+Tracy, S. J. 2010. Qualitative quality: Eight “big-tent” criteria for excellent qualitative research.
+Qualitative Inquiry 16:837–51. doi:10.1177/1077800410383121.
+Treharne, G. J., and D. W. Riggs. 2014. Ensuring quality in qualitative research. In Qualitative
+research in clinical and health psychology, ed. P. Rohleder and A. Lyons, 57–73. London: Red
+Globe Press.
+Tsai, L. 2017. The process of managing family financial pressures upon community reentry
+among survivors of sex trafficking in the Philippines: A grounded theory study. Journal of
+Human Trafficking 3 (3):211–30. doi:10.1080/23322705.2016.1199181.
+Tsai, L., I. Seballos-Llena, and R. Castellano-Datta. 2017. Participatory assessment of a matched
+savings program for human trafficking survivors and their family members in the
+Philippines [52 paragraphs]. Forum Qualitative Sozialforschung/Forum: Qualitative Social
+Research 18 (2):Art. 11. http://nbn-resolving.de/urn:nbn:de:0114-fqs1702116.FQS .
+Tuason, M. T. G. 2013. Those who were born poor: A qualitative study of Philippine poverty.
+Qualitative Psychology 1 (S):95–115. doi:10.1037/2326-3598.1.S.95.
+Williams, E. N., and S. L. Morrow. 2009. Achieving trustworthiness in qualitative research.
+Psychotherapy Research 19 (4–5):576–82. doi:10.1080/10503300802702113.
+Wójcik, M. 2018. The parallel culture of bullying in Polish secondary schools: A grounded
+theory study. Journal of Adolescence 69: 72–79.
+
+QUALITATIVE RESEARCH IN PSYCHOLOGY
+
+327
+
+Yakushko, O. 2010. Stress and coping strategies in the lives of recent immigrants: A grounded
+theory model. International Journal for the Advancement of Counseling 32 (4):256–73.
+doi:10.1007/s10447-010-9105-1.
+
+
