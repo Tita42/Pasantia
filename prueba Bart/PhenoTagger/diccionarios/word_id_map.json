@@ -1,0 +1,365 @@
+{
+  "analytic category": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#AnalyticCategory"
+  ],
+  "bibliography": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Bibliography"
+  ],
+  "data collection": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DataCollection"
+  ],
+  "descriptive category": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DescriptiveCategory"
+  ],
+  "document analysis": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DocumentAnalysis"
+  ],
+  "enrich document": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "enriched document": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "field note": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#FieldNote"
+  ],
+  "finding": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Finding"
+  ],
+  "find": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Finding"
+  ],
+  "information": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Information"
+  ],
+  "interpretation": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Interpretation"
+  ],
+  "interview": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Interview"
+  ],
+  "interview answer": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#InterviewAnswer"
+  ],
+  "metadata": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Metadata"
+  ],
+  "methodological strategy": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#MethodologicalStrategy"
+  ],
+  "object": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Object"
+  ],
+  "objective": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Objective"
+  ],
+  "observation": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Observation"
+  ],
+  "participant": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Participant"
+  ],
+  "project": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Project"
+  ],
+  "project formulation": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#ProjectFormulation"
+  ],
+  "question": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Question"
+  ],
+  "record": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Record"
+  ],
+  "report": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Report"
+  ],
+  "researcher": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Researcher"
+  ],
+  "subject": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Subject"
+  ],
+  "subject or object": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#SubjectOrObject"
+  ],
+  "support": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Support"
+  ],
+  "technique": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Technique"
+  ],
+  "technique over subject or object": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TechniqueOverSubjectOrObject"
+  ],
+  "text": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Text"
+  ],
+  "theoretical framework": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TheoreticalFramework"
+  ],
+  "video": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Video"
+  ],
+  "audio": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/7/untitled-ontology-52#Audio"
+  ],
+  "reformulation": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/7/untitled-ontology-52#Reformulation"
+  ],
+  "analytic categories": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#AnalyticCategory"
+  ],
+  "analytic-category": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#AnalyticCategory"
+  ],
+  "analyticcategory": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#AnalyticCategory"
+  ],
+  "bibliographies": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Bibliography"
+  ],
+  "data collections": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DataCollection"
+  ],
+  "data-collection": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DataCollection"
+  ],
+  "datacollection": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DataCollection"
+  ],
+  "descriptive categories": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DescriptiveCategory"
+  ],
+  "descriptive-category": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DescriptiveCategory"
+  ],
+  "descriptivecategory": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DescriptiveCategory"
+  ],
+  "document-analysis": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DocumentAnalysis"
+  ],
+  "documentanalysis": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DocumentAnalysis"
+  ],
+  "enrich documents": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "enrich-document": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "enrichdocument": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "enriched documents": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "enriched-document": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "enricheddocument": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "field notes": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#FieldNote"
+  ],
+  "field-note": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#FieldNote"
+  ],
+  "fieldnote": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#FieldNote"
+  ],
+  "findings": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Finding"
+  ],
+  "finds": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Finding"
+  ],
+  "informations": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Information"
+  ],
+  "interpretations": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Interpretation"
+  ],
+  "interviews": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Interview"
+  ],
+  "interview answers": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#InterviewAnswer"
+  ],
+  "interview-answer": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#InterviewAnswer"
+  ],
+  "interviewanswer": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#InterviewAnswer"
+  ],
+  "metadatas": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Metadata"
+  ],
+  "methodological strategies": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#MethodologicalStrategy"
+  ],
+  "methodological-strategy": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#MethodologicalStrategy"
+  ],
+  "methodologicalstrategy": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#MethodologicalStrategy"
+  ],
+  "objects": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Object"
+  ],
+  "objectives": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Objective"
+  ],
+  "observations": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Observation"
+  ],
+  "participants": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Participant"
+  ],
+  "projects": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Project"
+  ],
+  "project formulations": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#ProjectFormulation"
+  ],
+  "project-formulation": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#ProjectFormulation"
+  ],
+  "projectformulation": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#ProjectFormulation"
+  ],
+  "questions": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Question"
+  ],
+  "records": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Record"
+  ],
+  "reports": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Report"
+  ],
+  "researchers": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Researcher"
+  ],
+  "subjects": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Subject"
+  ],
+  "subject or objects": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#SubjectOrObject"
+  ],
+  "subject-or-object": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#SubjectOrObject"
+  ],
+  "subjectorobject": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#SubjectOrObject"
+  ],
+  "supports": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Support"
+  ],
+  "techniques": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Technique"
+  ],
+  "technique over subject or objects": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TechniqueOverSubjectOrObject"
+  ],
+  "technique-over-subject-or-object": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TechniqueOverSubjectOrObject"
+  ],
+  "techniqueoversubjectorobject": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TechniqueOverSubjectOrObject"
+  ],
+  "texts": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Text"
+  ],
+  "theoretical frameworks": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TheoreticalFramework"
+  ],
+  "theoretical-framework": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TheoreticalFramework"
+  ],
+  "theoreticalframework": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TheoreticalFramework"
+  ],
+  "videos": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#Video"
+  ],
+  "audios": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/7/untitled-ontology-52#Audio"
+  ],
+  "reformulations": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/7/untitled-ontology-52#Reformulation"
+  ],
+  "analytic-categories": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#AnalyticCategory"
+  ],
+  "analyticcategories": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#AnalyticCategory"
+  ],
+  "data-collections": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DataCollection"
+  ],
+  "datacollections": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DataCollection"
+  ],
+  "descriptive-categories": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DescriptiveCategory"
+  ],
+  "descriptivecategories": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#DescriptiveCategory"
+  ],
+  "enrich-documents": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "enrichdocuments": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "enriched-documents": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "enricheddocuments": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#EnrichedDocument"
+  ],
+  "field-notes": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#FieldNote"
+  ],
+  "fieldnotes": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#FieldNote"
+  ],
+  "interview-answers": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#InterviewAnswer"
+  ],
+  "interviewanswers": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#InterviewAnswer"
+  ],
+  "methodological-strategies": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#MethodologicalStrategy"
+  ],
+  "methodologicalstrategies": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#MethodologicalStrategy"
+  ],
+  "project-formulations": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#ProjectFormulation"
+  ],
+  "projectformulations": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#ProjectFormulation"
+  ],
+  "subject-or-objects": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#SubjectOrObject"
+  ],
+  "subjectorobjects": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#SubjectOrObject"
+  ],
+  "technique-over-subject-or-objects": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TechniqueOverSubjectOrObject"
+  ],
+  "techniqueoversubjectorobjects": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TechniqueOverSubjectOrObject"
+  ],
+  "theoretical-frameworks": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TheoreticalFramework"
+  ],
+  "theoreticalframeworks": [
+    "http://www.semanticweb.org/emilio/ontologies/2024/5/untitled-ontology-27#TheoreticalFramework"
+  ]
+}
