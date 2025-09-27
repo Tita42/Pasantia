@@ -1,3 +1,5 @@
 prueba Bart/PhenoTagger/models/*.h5
 prueba Bart/PhenoTagger/models/*.h5
 prueba Bart/PhenoTagger/src/negbio2/parse_model/parser/*.g
+prueba Bart/PhenoTagger/models/*.h5
+prueba Bart/PhenoTagger/src/negbio2/parse_model/parser/*.g
